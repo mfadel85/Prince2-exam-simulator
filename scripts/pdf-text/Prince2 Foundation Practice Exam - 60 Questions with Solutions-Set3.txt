@@ -1,0 +1,666 @@
+
+
+Prince2 Foundation Practice Exam - Set 3
+120 Questions with Detailed Solutions
+Instructions
+Each question has 4 multiple choice options (A, B, C, D)
+Select the BEST answer for each question
+Solutions and explanations are provided at the end
+Time allocation: 120 minutes (1 minute per question)
+QUESTIONS
+Question 1: A project manager discovers that a key supplier has gone out of business. This is an
+example of which type of risk that has materialized? A) Business risk B) Project risk C) External risk D)
+Technical risk
+Question 2: In the context of Prince2's 'Learn from Experience' principle, when should lessons be
+reviewed? A) Only at project closure B) Only at the start of each stage C) Throughout the project
+lifecycle D) Only when problems occur
+Question 3: Which document would contain the project's approach to configuration management?
+A) Project Initiation Documentation B) Configuration Management Strategy C) Quality Management
+Strategy D) Project Plan
+Question 4: A team manager reports that they will complete their work package 2 days late but
+within budget. What should the project manager do first? A) Create an exception report B) Check if
+this exceeds stage tolerance C) Inform the project board immediately D) Update the stage plan
+Question 5: According to Prince2, what is the primary difference between an issue and a change
+request? A) Issues are more urgent than change requests B) Change requests always cost money,
+issues don't C) An issue is a problem requiring a decision, a change request proposes a modification
+D) There is no difference
+Question 6: Which process is responsible for ensuring that all products have been accepted before
+project closure? A) Managing Product Delivery B) Controlling a Stage C) Closing a Project D)
+Managing a Stage Boundary
+
+Question 7: In Prince2, what is the main purpose of using a product checklist? A) To ensure all
+products are delivered on time B) To track which products have been completed and approved C)
+To estimate product development effort D) To assign product responsibilities
+Question 8: A project executive wants to ensure independent oversight of the project manager's
+performance. This is achieved through: A) Daily progress reports B) Project assurance C) Exception
+reporting D) Stage gate reviews
+Question 9: Which of the following would be considered a dis-benefit in a Business Case? A)
+Reduced operational costs B) Staff training costs during implementation C) Increased customer
+satisfaction D) Improved system performance
+Question 10: What triggers the creation of a new Version of the Project Initiation Documentation?
+A) Start of each new stage B) Significant changes to the project baseline C) Monthly review cycle D)
+Request from project board
+Question 11: In Prince2, what is the recommended maximum number of people on a Project
+Board? A) 5 B) 7 C) 9 D) There is no maximum
+Question 12: A project manager needs to communicate a change in project scope to all
+stakeholders. Which document should guide how this communication is handled? A) Project Brief B)
+Communication Management Strategy C) Stakeholder Register D) Project Initiation Documentation
+Question 13: Which Prince2 theme addresses the question "What is the project aiming to achieve?"
+A) Business Case B) Plans C) Progress D) Quality
+Question 14: In a complex project with multiple suppliers, who should typically chair the Project
+Board? A) Senior Supplier B) Senior User C) Project Executive D) Project Manager
+Question 15: What is the main purpose of a Configuration Item Record? A) To track product costs
+B) To maintain information about each product C) To schedule product delivery D) To assign
+product ownership
+Question 16: Which of the following best describes the 'management by exception' approach in
+Prince2? A) Only unusual events are managed B) Authority is delegated within defined tolerance
+levels C) Exceptions are made to standard procedures D) Management only intervenes when asked
+Question 17: A project is running behind schedule but within budget tolerance. The project
+manager should: A) Continue as planned if still within stage tolerance B) Immediately escalate to
+the project board C) Create an exception plan D) Reduce project scope
+
+Question 18: In Prince2, what is the relationship between acceptance criteria and quality criteria? A)
+They are the same thing B) Acceptance criteria are broader and include quality criteria C) Quality
+criteria are more detailed than acceptance criteria D) They are unrelated concepts
+Question 19: Which process includes the activity "Review and update project controls"? A) Initiating
+a Project B) Managing a Stage Boundary C) Controlling a Stage D) Directing a Project
+Question 20: What should happen to unfinished work when a project is closed prematurely? A) It
+should be completed by the project team B) It should be documented in follow-on action
+recommendations C) It should be ignored D) It should be transferred to operations
+Question 21: In Prince2, what is meant by 'tailoring the method'? A) Removing unwanted processes
+B) Adapting Prince2 to fit the project context C) Creating new Prince2 techniques D) Simplifying all
+documentation
+Question 22: Which role has the ultimate responsibility for project success? A) Project Manager B)
+Senior User C) Project Executive D) Project Board collectively
+Question 23: A project manager wants to delegate authority for approving small design changes.
+This would typically be done through: A) The Change Authority B) The Project Board C) The Senior
+Supplier D) Team Managers
+Question 24: What is the primary purpose of the Benefits Review Plan? A) To track benefits during
+the project B) To define when and how benefits will be measured after the project C) To justify the
+project's existence D) To calculate return on investment
+Question 25: In which document would you expect to find the project's approach to risk
+management? A) Risk Register B) Risk Management Strategy C) Project Plan D) Business Case
+Question 26: A project board member cannot attend board meetings regularly. What should they
+do? A) Send a representative to all meetings B) Appoint someone to provide project assurance on
+their behalf C) Resign from the project board D) Attend meetings remotely when possible
+Question 27: Which Prince2 principle requires projects to have defined and agreed roles and
+responsibilities within an organization structure? A) Manage by Stages B) Defined Roles and
+Responsibilities C) Focus on Products D) Manage by Exception
+Question 28: What is the main difference between a Highlight Report and a Checkpoint Report? A)
+Frequency of reporting B) Level of detail provided C) Highlight Reports go to Project Board,
+Checkpoint Reports to Project Manager D) Content focus areas
+
+Question 29: In Prince2, when should risk identification activities occur? A) Only during project
+initiation B) At the start of each stage C) Throughout the project lifecycle D) Only when problems
+arise
+Question 30: Which of the following is NOT a recommended basis for defining management
+stages? A) Available resources B) Decision points C) Technical phases D) Risk levels
+Question 31: A project manager receives a request for information about project progress from a
+government regulator. How should they respond? A) Provide the information immediately B) Refer
+to the Communication Management Strategy C) Ask the Project Executive for guidance D) Ignore
+the request
+Question 32: What is the primary purpose of the Organization theme in Prince2? A) To define the
+company's organizational structure B) To define project roles, responsibilities and reporting
+structure C) To organize project activities efficiently D) To structure project documentation
+Question 33: In Prince2, what should drive the creation of management products? A) Prince2
+templates B) Organizational standards C) Information needs of stakeholders D) Project manager
+preferences
+Question 34: Which of the following would typically be escalated as an exception? A) A 2-day delay
+in a 6-month stage B) A team member taking sick leave C) A forecast 15% budget overrun when
+tolerance is 10% D) A minor change in product specifications
+Question 35: What is the main purpose of product-based planning in Prince2? A) To create detailed
+project schedules B) To identify and define all products that must be created C) To assign resources
+to products D) To estimate product costs
+Question 36: In the context of Prince2, what does 'corporate or programme management' refer to?
+A) The organization's senior management B) The layer of management above the Project Board C)
+The project management office D) External oversight bodies
+Question 37: A project manager wants to understand what quality activities are planned for the
+next month. Which document should they consult? A) Quality Register B) Quality Management
+Strategy C) Product Descriptions D) Stage Plan
+Question 38: Which of the following best describes a 'change budget' in Prince2? A) The total
+project budget B) Money allocated for managing change requests C) Budget reserves for approved
+changes D) Cost of change control procedures
+
+Question 39: What should happen if a project board member consistently fails to participate in
+project decisions? A) Continue without their input B) Replace them with someone who can fulfill the
+role C) Reduce the frequency of board meetings D) Delegate their authority permanently
+Question 40: In Prince2, what is the purpose of the End Project Report? A) To provide a detailed
+project performance analysis B) To request project closure authorization C) To document lessons
+learned D) To hand over products to operations
+Question 41: Which process contains the activity "Authorize a Stage or Exception Plan"? A)
+Managing a Stage Boundary B) Controlling a Stage C) Directing a Project D) Initiating a Project
+Question 42: A project manager discovers that a work package will exceed its quality tolerance.
+What should they do? A) Accept the lower quality to meet deadlines B) Treat it as an exception and
+escalate C) Work with the team manager to resolve the issue D) Update the product description
+Question 43: In Prince2, what is meant by 'embedding' the method? A) Training all staff in Prince2
+B) Making Prince2 part of the organizational culture C) Using Prince2 for all projects D)
+Implementing Prince2 software tools
+Question 44: Which of the following is a key characteristic of the Project Executive role? A) Day-to-
+day project management B) Technical expertise in the project domain C) Ultimate accountability for
+project success D) Representing user interests
+Question 45: What should be the primary consideration when setting project tolerances? A)
+Available budget B) Stakeholder expectations and risk appetite C) Industry standards D) Historical
+project data
+Question 46: In Prince2, what triggers the Managing Product Delivery process? A) Project
+authorization B) Stage authorization C) Work Package authorization D) Product approval
+Question 47: Which document provides the foundation for creating detailed Stage Plans? A)
+Project Brief B) Project Plan C) Business Case D) Project Product Description
+Question 48: A project team identifies a new risk during stage execution. What is the first thing
+they should do? A) Implement a response immediately B) Record it in the Risk Register C) Report it
+to the Project Board D) Assess its probability and impact
+Question 49: In Prince2, what is the primary purpose of customer acceptance? A) To measure
+customer satisfaction B) To formally confirm that products meet requirements C) To transfer
+ownership of products D) To close the project
+
+Question 50: Which of the following best describes the 'Focus on Products' principle? A) Prioritize
+the most valuable products B) Deliver products as quickly as possible C) Define and deliver products
+that meet requirements D) Focus on physical deliverables only
+Question 51: A project manager needs to report that stage tolerance will be exceeded. Which
+document should they create? A) Highlight Report B) Exception Report C) End Stage Report D)
+Issue Report
+Question 52: In Prince2, what is the main purpose of a Product Description? A) To show how
+products relate to each other B) To define what a product is and its quality requirements C) To
+estimate product development time D) To assign product responsibilities
+Question 53: Which of the following would normally be considered when setting up a Change
+Authority? A) The number of expected changes B) The complexity of change decisions C) The value
+and impact of changes they can authorize D) All of the above
+Question 54: What should happen to the Risk Register when a project stage is completed? A) It
+should be archived B) It should be updated and reviewed for the next stage C) It should be
+recreated for the next stage D) It should be closed
+Question 55: In Prince2, what is meant by 'management stage tolerance'? A) How much variation
+the Project Manager can accept B) How much variation the Project Board can accept in a stage C)
+The buffer time built into each stage D) The acceptable quality variation for stage products
+Question 56: Which process is responsible for authorizing the start of the first delivery stage? A)
+Starting up a Project B) Initiating a Project C) Directing a Project D) Managing a Stage Boundary
+Question 57: A project manager wants to understand the current status of all project risks. Which
+document should they consult? A) Risk Management Strategy B) Risk Register C) Issue Register D)
+Exception Report
+Question 58: In Prince2, what should drive the frequency of progress reporting? A) Prince2
+standards B) Project manager preference C) Stakeholder information needs D) Company policy
+Question 59: Which of the following is a valid reason for creating multiple management stages? A)
+Technical complexity B) Number of suppliers involved C) Risk levels and decision points D) All of the
+above
+Question 60: What is the primary purpose of the Lessons Log? A) To record project problems B) To
+capture relevant experience for future projects C) To document team performance D) To track
+
+training needs
+Question 61: A project board wants to ensure that user requirements are properly represented
+throughout the project. This is primarily the responsibility of: A) Project Manager B) Senior User C)
+Project Executive D) Team Manager
+Question 62: In Prince2, what should happen if the business case can no longer be justified? A)
+Continue with reduced scope B) Request additional funding C) Close the project prematurely D)
+Extend the project timeline
+Question 63: Which theme addresses the question "How will progress be monitored and
+controlled?" A) Plans B) Progress C) Organization D) Change
+Question 64: A project manager needs to delegate some activities to a team manager. This is
+formalized through: A) A Work Package B) A Stage Plan C) A Product Description D) A
+Communication Plan
+Question 65: In Prince2, what is the recommended approach to handling a risk that has a very low
+probability but potentially catastrophic impact? A) Ignore it due to low probability B) Accept it as
+part of project risk C) Develop a risk response appropriate to the potential impact D) Transfer it
+through insurance only
+Question 66: Which of the following is NOT a component of effective project controls according to
+Prince2? A) Tolerances B) Reporting C) Decision making D) Detailed scheduling
+Question 67: A project executive needs to ensure that the project remains aligned with business
+strategy. When should this alignment be reviewed? A) Only at project start B) At each stage
+boundary C) When business strategy changes D) Both B and C
+Question 68: In Prince2, what is meant by 'quality tolerance'? A) Acceptable variation in product
+quality B) The maximum number of quality issues allowed C) Time allocated for quality activities D)
+Budget allocated for quality assurance
+Question 69: Which process includes the activity "Take corrective action"? A) Managing Product
+Delivery B) Controlling a Stage C) Managing a Stage Boundary D) Directing a Project
+Question 70: A project manager wants to understand what constitutes acceptable quality for a
+specific product. Where should they look? A) Quality Management Strategy B) Product Description
+C) Quality Register D) Project Plan
+
+Question 71: In Prince2, what should determine the content and format of management products?
+A) Prince2 templates B) Information needs and project context C) Organizational standards D)
+Project manager experience
+Question 72: Which of the following best describes the relationship between stages and the
+Business Case? A) Each stage must have its own business case B) The business case should be
+reviewed at each stage boundary C) The business case is only relevant for the initiation stage D)
+Stages don't affect the business case
+Question 73: A project team wants to change the technical approach for developing a product.
+This change would: A) Always require Project Board approval B) Be handled by Change Authority if
+within their limits C) Be decided by the Team Manager D) Depend on the impact and value of the
+change
+Question 74: In Prince2, what is the primary purpose of the Daily Log? A) To record formal project
+decisions B) To track team member activities C) To capture informal notes and observations D) To
+monitor project costs daily
+Question 75: Which of the following would typically be found in a Project Plan but NOT in a Stage
+Plan? A) Major products to be delivered B) Detailed resource requirements C) High-level project
+timeline D) Specific quality activities
+Question 76: A project manager receives conflicting requirements from different user groups. How
+should this be resolved? A) Choose the most senior user's requirements B) Escalate to the Senior
+User for resolution C) Try to satisfy all requirements D) Make the decision based on project
+constraints
+Question 77: In Prince2, what should happen to specialist products at project closure? A) They
+should be handed over to the customer B) They should be archived C) They should be maintained
+by the project team D) They should be destroyed
+Question 78: Which of the following best describes project assurance in Prince2? A) External audit
+of the project B) Independent monitoring on behalf of Project Board interests C) Quality control of
+project products D) Insurance against project failure
+Question 79: A project manager wants to understand the project's approach to managing
+suppliers. Which document should they consult? A) Organization theme guidance B)
+Communication Management Strategy C) Project Initiation Documentation D) Supplier contracts
+
+Question 80: In Prince2, what is the main benefit of using management stages? A) Faster project
+delivery B) Lower project costs C) Regular control and decision points D) Better team motivation
+Question 81: Which process contains the activity "Prepare premature closure"? A) Controlling a
+Stage B) Managing a Stage Boundary C) Closing a Project D) Directing a Project
+Question 82: A project board wants to ensure that lessons from previous projects are applied.
+When should this happen? A) During Starting up a Project B) During Initiating a Project C)
+Throughout the project D) All of the above
+Question 83: In Prince2, what should drive the selection of quality methods and techniques? A)
+Industry best practices B) Project context and requirements C) Team capabilities D) Available budget
+Question 84: Which of the following is a key responsibility of the Project Manager? A) Making
+strategic project decisions B) Providing resources for the project C) Day-to-day management of the
+project D) Representing user interests
+Question 85: A project manager discovers that a key assumption in the business case is no longer
+valid. What should they do? A) Continue with the project as planned B) Update the business case
+and seek guidance C) Close the project immediately D) Adjust project scope to accommodate the
+change
+Question 86: In Prince2, what is meant by 'configuration management'? A) Managing project team
+configuration B) Setting up project management tools C) Managing project product baselines D)
+Organizing project documentation
+Question 87: Which of the following would be a valid trigger for an ad hoc Project Board decision?
+A) Regular progress report B) Exception situation requiring guidance C) Routine stage boundary D)
+Scheduled quality review
+Question 88: A project manager wants to understand what decisions can be made at team level.
+Where should they look? A) Work Package B) Team Plan C) Stage Plan D) Delegation matrix
+Question 89: In Prince2, what should happen if project tolerance is forecast to be exceeded? A)
+Create an Exception Plan immediately B) Inform corporate/programme management C) Reduce
+project scope to stay within tolerance D) Request additional resources
+Question 90: Which theme addresses the question "Who makes which decisions?" A) Organization
+B) Progress C) Plans D) Change
+
+Question 91: A project executive wants to delegate some oversight responsibilities while
+maintaining accountability. This should be done through: A) Project assurance arrangements B)
+Changing the project manager's role C) Adding more Project Board members D) Creating additional
+management stages
+Question 92: In Prince2, what is the main purpose of a Checkpoint Report? A) To report stage
+progress to the Project Board B) To report work package progress to the Project Manager C) To
+escalate issues and risks D) To request additional resources
+Question 93: Which of the following best describes the 'Manage by Stages' principle? A) Projects
+should be divided into equal-length stages B) Each stage should deliver specific business benefits
+C) Projects should be planned, monitored and controlled stage by stage D) Technical and
+management stages should be aligned
+Question 94: A project manager needs to understand the quality requirements for all project
+products. Which technique should they use? A) Quality planning B) Product-based planning C) Risk
+analysis D) Impact analysis
+Question 95: In Prince2, what should determine when a project stage ends? A) Calendar dates B)
+Available resources C) Achievement of stage objectives D) Team availability
+Question 96: Which of the following is NOT a typical trigger for updating the Risk Register? A) New
+risks identified B) Risk status changes C) Regular scheduled reviews D) Team member changes
+Question 97: A project board member wants to ensure that their interests are protected
+throughout the project. This is achieved through: A) Daily involvement in project activities B) Project
+assurance activities C) Regular team meetings D) Direct supervision of the project manager
+Question 98: In Prince2, what should happen to unresolved issues at project closure? A) They
+should be resolved before closure B) They should be included in follow-on action recommendations
+C) They should be transferred to operations D) They should be ignored
+Question 99: Which process is responsible for ensuring that Work Packages are authorized within
+stage tolerances? A) Managing Product Delivery B) Controlling a Stage C) Managing a Stage
+Boundary D) Directing a Project
+Question 100: A project manager wants to understand the project's approach to handling changes.
+Which document should they consult first? A) Change control procedures B) Configuration
+Management Strategy C) Project Initiation Documentation D) Change Authority terms of reference
+
+Question 101: In Prince2, what is meant by 'project tolerance'? A) How much variation the project
+team can accept B) The permissible deviation from project objectives set by corporate management
+C) The project's attitude toward risk D) The acceptable quality variation for project products
+Question 102: Which of the following would typically be escalated to the Project Board for
+decision? A) Minor specification clarifications B) Resource allocation within tolerance C) Changes
+exceeding Change Authority limits D) Daily progress issues
+Question 103: A project manager wants to ensure that all quality activities are properly planned
+and tracked. Which document is most important for this? A) Quality Register B) Quality
+Management Strategy C) Project Plan D) Stage Plan
+Question 104: In Prince2, what should drive the decision to create an Exception Plan? A) Schedule
+delays B) Budget overruns C) Tolerance being exceeded or forecast to be exceeded D) Quality issues
+Question 105: Which of the following best describes the role of Team Manager in Prince2? A)
+Managing a project team B) Managing the delivery of one or more Work Packages C) Assisting the
+Project Manager D) Representing team interests on the Project Board
+Question 106: A project executive wants to ensure that the project delivers the expected business
+benefits. Who should they look to for this assurance? A) Project Manager B) Senior User C) Senior
+Supplier D) Team Manager
+Question 107: In Prince2, what should happen when a new risk is identified during stage
+execution? A) It should be escalated immediately B) It should be assessed and recorded in the Risk
+Register C) A response should be implemented immediately D) It should be ignored if probability is
+low
+Question 108: Which of the following is a key characteristic of a successful Project Board? A)
+Technical expertise in all project areas B) Daily involvement in project activities C) Authority to
+commit resources and make decisions D) Detailed knowledge of project management techniques
+Question 109: A project manager wants to understand what products must be created in the next
+stage. Which document provides this information? A) Project Plan B) Stage Plan C) Product
+Breakdown Structure D) Work Package
+Question 110: In Prince2, what is the primary purpose of impact analysis? A) To assess the effect of
+proposed changes B) To identify project stakeholders C) To analyze project risks D) To evaluate team
+performance
+
+Question 111: Which process includes the activity "Review Work Package status"? A) Managing
+Product Delivery B) Controlling a Stage C) Managing a Stage Boundary D) Directing a Project
+Question 112: A project board wants to ensure that project management processes are being
+followed correctly. This is achieved through: A) Daily progress reports B) Exception reporting C)
+Project assurance activities D) Regular board meetings
+Question 113: In Prince2, what should determine the level of detail in project documentation? A)
+Prince2 templates B) Project size and complexity C) Information needs and project context D)
+Organizational standards
+Question 114: Which of the following would typically be found in an End Stage Report? A) Detailed
+plans for the next stage B) Performance against the Stage Plan C) Request for project closure D)
+Updated Business Case
+Question 115: A project manager discovers that a critical supplier has increased their prices
+significantly. This should be treated as: A) A risk that has materialized B) A change request C) An
+issue requiring a decision D) Normal commercial variation
+Question 116: In Prince2, what is the main purpose of the Communication Management Strategy?
+A) To define project reporting requirements B) To describe all communication needs and
+approaches C) To establish team communication protocols D) To create stakeholder engagement
+plans
+Question 117: Which of the following best describes when project closure should occur? A) When
+all planned products are delivered B) When the project budget is exhausted C) When the project
+can no longer be justified or objectives achieved D) When the planned end date is reached
+Question 118: A project manager wants to delegate authority for making minor changes to
+product specifications. This would typically be done through: A) Work Package tolerances B)
+Change Authority arrangements C) Team Manager responsibilities D) Stage Plan adjustments
+Question 119: In Prince2, what should happen to the Business Case if the expected benefits are
+reduced? A) The project should continue as planned B) The Business Case should be updated and
+reviewed C) The project should be closed immediately D) Additional benefits should be identified
+Question 120: Which principle emphasizes that project management should be applied
+proportionally to project risk, complexity, and importance? A) Continued Business Justification B)
+Learn from Experience C) Tailor to Suit the Project Environment D) Manage by Exception
+
+ANSWERS AND EXPLANATIONS
+Answer 1: C - External risk Explanation: Supplier business failure is an external risk as it originates
+outside the project's control.
+Answer 2: C - Throughout the project lifecycle Explanation: The Learn from Experience principle
+requires continuous learning and application of lessons.
+Answer 3: B - Configuration Management Strategy Explanation: This strategy document defines how
+configuration management will be applied to the project.
+Answer 4: B - Check if this exceeds stage tolerance Explanation: The Project Manager must first
+assess whether the delay impacts stage tolerance before taking action.
+Answer 5: C - An issue is a problem requiring a decision, a change request proposes a modification
+Explanation: Issues are problems or concerns, while change requests specifically propose alterations to
+baselines.
+Answer 6: C - Closing a Project Explanation: Product acceptance is confirmed as part of the project
+closure activities.
+Answer 7: B - To track which products have been completed and approved Explanation: Product
+checklists help monitor the status of all products throughout the project.
+Answer 8: B - Project assurance Explanation: Project assurance provides independent oversight on
+behalf of Project Board members.
+Answer 9: B - Staff training costs during implementation Explanation: Dis-benefits are negative
+outcomes or additional costs resulting from the project.
+Answer 10: B - Significant changes to the project baseline Explanation: The PID is updated when
+major changes affect the project's foundation documents.
+Answer 11: D - There is no maximum Explanation: While Prince2 recommends keeping the Project
+Board small, there's no defined maximum.
+Answer 12: B - Communication Management Strategy Explanation: This document defines how,
+when, and to whom information should be communicated.
+Answer 13: A - Business Case Explanation: The Business Case theme addresses project justification
+and what the project aims to achieve.
+
+Answer 14: C - Project Executive Explanation: The Project Executive chairs the Project Board and has
+ultimate accountability.
+Answer 15: B - To maintain information about each product Explanation: Configuration Item
+Records contain detailed information about each product's status and history.
+Answer 16: B - Authority is delegated within defined tolerance levels Explanation: Management by
+exception means delegating authority within set limits and only escalating when these limits are
+threatened.
+Answer 17: A - Continue as planned if still within stage tolerance Explanation: As long as stage
+tolerance isn't threatened, the Project Manager can continue without escalation.
+Answer 18: B - Acceptance criteria are broader and include quality criteria Explanation: Acceptance
+criteria define overall satisfaction requirements, including but not limited to quality criteria.
+Answer 19: B - Managing a Stage Boundary Explanation: Project controls are reviewed and updated
+when planning subsequent stages.
+Answer 20: B - It should be documented in follow-on action recommendations Explanation:
+Unfinished work should be recorded as recommendations for future action.
+Answer 21: B - Adapting Prince2 to fit the project context Explanation: Tailoring means adjusting
+Prince2 methods to suit the specific project environment.
+Answer 22: C - Project Executive Explanation: The Project Executive has ultimate accountability for
+project success.
+Answer 23: A - The Change Authority Explanation: Change Authority can be established to handle
+changes within defined limits.
+Answer 24: B - To define when and how benefits will be measured after the project Explanation:
+The Benefits Review Plan outlines post-project benefit measurement and review activities.
+Answer 25: B - Risk Management Strategy Explanation: This document describes the project's
+approach to risk management.
+Answer 26: B - Appoint someone to provide project assurance on their behalf Explanation: Project
+Board members can delegate assurance activities while retaining accountability.
+Answer 27: B - Defined Roles and Responsibilities Explanation: This principle explicitly addresses the
+need for clear roles and responsibilities.
+
+Answer 28: C - Highlight Reports go to Project Board, Checkpoint Reports to Project Manager
+Explanation: The key difference is the audience - different levels of management require different
+reports.
+Answer 29: C - Throughout the project lifecycle Explanation: Risk identification is an ongoing activity
+throughout the project.
+Answer 30: A - Available resources Explanation: Stages should be defined based on natural control
+points, not resource availability.
+Answer 31: B - Refer to the Communication Management Strategy Explanation: The
+communication strategy should guide how to handle unexpected information requests.
+Answer 32: B - To define project roles, responsibilities and reporting structure Explanation: The
+Organization theme establishes the project management structure.
+Answer 33: C - Information needs of stakeholders Explanation: Management products should be
+created based on what information stakeholders need.
+Answer 34: C - A forecast 15% budget overrun when tolerance is 10% Explanation: This exceeds the
+defined tolerance and requires escalation as an exception.
+Answer 35: B - To identify and define all products that must be created Explanation: Product-based
+planning focuses on understanding what must be delivered.
+Answer 36: B - The layer of management above the Project Board Explanation: This refers to the
+management level that commissioned the project and set project tolerance.
+Answer 37: A - Quality Register Explanation: The Quality Register records all planned and completed
+quality activities.
+Answer 38: C - Budget reserves for approved changes Explanation: A change budget is money set
+aside specifically for implementing approved changes.
+Answer 39: B - Replace them with someone who can fulfill the role Explanation: Effective Project
+Board participation is essential; non-participating members should be replaced.
+Answer 40: A - To provide a detailed project performance analysis Explanation: The End Project
+Report summarizes project performance against its objectives.
+Answer 41: C - Directing a Project Explanation: The Project Board authorizes Stage or Exception
+Plans through this process.
+
+Answer 42: C - Work with the team manager to resolve the issue Explanation: Quality tolerance is
+typically handled at the work package level first.
+Answer 43: B - Making Prince2 part of the organizational culture Explanation: Embedding means
+integrating Prince2 into the organization's standard way of working.
+Answer 44: C - Ultimate accountability for project success Explanation: The Project Executive is
+ultimately accountable for the project's success.
+Answer 45: B - Stakeholder expectations and risk appetite Explanation: Tolerances should be set
+based on what stakeholders can accept and the organization's risk appetite.
+Answer 46: C - Work Package authorization Explanation: Managing Product Delivery is triggered
+when a Team Manager receives an authorized Work Package.
+Answer 47: B - Project Plan Explanation: Stage Plans are detailed breakdowns of the relevant
+portions of the Project Plan.
+Answer 48: D - Assess its probability and impact Explanation: New risks should be assessed before
+being formally recorded and managed.
+Answer 49: B - To formally confirm that products meet requirements Explanation: Customer
+acceptance is the formal agreement that delivered products are satisfactory.
+Answer 50: C - Define and deliver products that meet requirements Explanation: Focus on Products
+means understanding what needs to be delivered to satisfy stakeholder requirements.
+Answer 51: B - Exception Report Explanation: Exception Reports are created when tolerance is
+forecast to be exceeded.
+Answer 52: B - To define what a product is and its quality requirements Explanation: Product
+Descriptions specify the purpose, composition, and quality criteria for products.
+Answer 53: D - All of the above Explanation: All these factors should be considered when
+establishing Change Authority limits.
+Answer 54: B - It should be updated and reviewed for the next stage Explanation: The Risk Register
+is a project-level document that continues throughout the project.
+Answer 55: B - How much variation the Project Board can accept in a stage Explanation: Stage
+tolerance defines the acceptable deviation from stage objectives.
+
+Answer 56: C - Directing a Project Explanation: The Project Board authorizes the start of stages
+through the Directing a Project process.
+Answer 57: B - Risk Register Explanation: The Risk Register contains current information about all
+identified risks.
+Answer 58: C - Stakeholder information needs Explanation: Reporting frequency should be tailored
+to meet stakeholder requirements.
+Answer 59: D - All of the above Explanation: All these factors can justify creating multiple
+management stages.
+Answer 60: B - To capture relevant experience for future projects Explanation: The Lessons Log
+records lessons that can benefit the current and future projects.
+Answer 61: B - Senior User Explanation: The Senior User represents user interests and ensures
+requirements are properly addressed.
+Answer 62: C - Close the project prematurely Explanation: Projects should be closed if they can no
+longer be justified.
+Answer 63: B - Progress Explanation: The Progress theme addresses monitoring and controlling
+project progress.
+Answer 64: A - A Work Package Explanation: Work Packages formalize the delegation of work to
+Team Managers.
+Answer 65: C - Develop a risk response appropriate to the potential impact Explanation: Risk
+responses should be proportionate to both probability and impact.
+Answer 66: D - Detailed scheduling Explanation: Detailed scheduling is a planning technique, not a
+control mechanism.
+Answer 67: D - Both B and C Explanation: Business alignment should be reviewed at stage
+boundaries and when strategy changes.
+Answer 68: A - Acceptable variation in product quality Explanation: Quality tolerance defines how
+much quality can vary while still being acceptable.
+Answer 69: B - Controlling a Stage Explanation: Corrective action is taken as part of controlling stage
+activities.
+
+Answer 70: B - Product Description Explanation: Product Descriptions contain the quality criteria for
+specific products.
+Answer 71: B - Information needs and project context Explanation: Management products should be
+tailored to provide needed information efficiently.
+Answer 72: B - The business case should be reviewed at each stage boundary Explanation: The
+Business Case should be regularly reviewed to ensure continued justification.
+Answer 73: D - Depend on the impact and value of the change Explanation: The approval authority
+depends on the significance and value of the proposed change.
+Answer 74: C - To capture informal notes and observations Explanation: The Daily Log is for the
+Project Manager's informal notes and reminders.
+Answer 75: C - High-level project timeline Explanation: Project Plans show high-level timelines;
+Stage Plans contain detailed scheduling.
+Answer 76: B - Escalate to the Senior User for resolution Explanation: The Senior User should resolve
+conflicts between different user requirements.
+Answer 77: A - They should be handed over to the customer Explanation: Specialist products are
+delivered to and accepted by the customer.
+Answer 78: B - Independent monitoring on behalf of Project Board interests Explanation: Project
+assurance provides independent oversight for Project Board members.
+Answer 79: C - Project Initiation Documentation Explanation: The PID contains the project
+management approaches including supplier management.
+Answer 80: C - Regular control and decision points Explanation: Management stages provide
+natural points for review and authorization.
+Answer 81: C - Closing a Project Explanation: Premature closure preparation is an activity within the
+Closing a Project process.
+Answer 82: D - All of the above Explanation: Lessons should be applied throughout the project
+lifecycle.
+Answer 83: B - Project context and requirements Explanation: Quality methods should be chosen
+based on what's appropriate for the project.
+
+Answer 84: C - Day-to-day management of the project Explanation: The Project Manager is
+responsible for daily project management activities.
+Answer 85: B - Update the business case and seek guidance Explanation: Invalid assumptions may
+affect project justification and require Business Case updates.
+Answer 86: C - Managing project product baselines Explanation: Configuration management
+controls and tracks versions of project products.
+Answer 87: B - Exception situation requiring guidance Explanation: Ad hoc decisions are typically
+triggered by exceptional circumstances.
+Answer 88: A - Work Package Explanation: Work Packages define the authority and constraints for
+Team Managers.
+Answer 89: B - Inform corporate/programme management Explanation: Project tolerance is set by
+the layer above the Project Board, so they must be informed.
+Answer 90: A - Organization Explanation: The Organization theme defines roles, responsibilities, and
+decision-making authority.
+Answer 91: A - Project assurance arrangements Explanation: Project assurance allows delegation of
+oversight while maintaining accountability.
+Answer 92: B - To report work package progress to the Project Manager Explanation: Checkpoint
+Reports provide Team Manager updates to the Project Manager.
+Answer 93: C - Projects should be planned, monitored and controlled stage by stage Explanation:
+This principle ensures projects are manageable through staged control.
+Answer 94: B - Product-based planning Explanation: Product-based planning identifies products and
+their quality requirements.
+Answer 95: C - Achievement of stage objectives Explanation: Stages end when their planned
+objectives have been achieved.
+Answer 96: D - Team member changes Explanation: Team changes don't typically affect the Risk
+Register unless they impact risk levels.
+Answer 97: B - Project assurance activities Explanation: Project assurance protects stakeholder
+interests throughout the project.
+
+Answer 98: B - They should be included in follow-on action recommendations Explanation:
+Unresolved issues should be documented for post-project resolution.
+Answer 99: B - Controlling a Stage Explanation: Work Package authorization is part of stage control
+activities.
+Answer 100: C - Project Initiation Documentation Explanation: The PID contains the project's change
+control approach and procedures.
+Answer 101: B - The permissible deviation from project objectives set by corporate management
+Explanation: Project tolerance is set by the commissioning level of management.
+Answer 102: C - Changes exceeding Change Authority limits Explanation: Changes beyond Change
+Authority limits require Project Board approval.
+Answer 103: A - Quality Register Explanation: The Quality Register tracks all quality management
+activities.
+Answer 104: C - Tolerance being exceeded or forecast to be exceeded Explanation: Exception Plans
+are created when tolerance is threatened, regardless of the cause.
+Answer 105: B - Managing the delivery of one or more Work Packages Explanation: Team
+Managers are responsible for Work Package delivery.
+Answer 106: B - Senior User Explanation: The Senior User represents those who will realize the
+benefits.
+Answer 107: B - It should be assessed and recorded in the Risk Register Explanation: New risks
+should be properly assessed and formally recorded.
+Answer 108: C - Authority to commit resources and make decisions Explanation: Project Board
+members must have authority to represent their stakeholder groups.
+Answer 109: B - Stage Plan Explanation: Stage Plans detail the products to be created in each stage.
+Answer 110: A - To assess the effect of proposed changes Explanation: Impact analysis evaluates
+the consequences of proposed changes.
+Answer 111: B - Controlling a Stage Explanation: Work Package status review is part of stage control
+activities.
+
+Answer 112: C - Project assurance activities Explanation: Project assurance monitors compliance
+with project management processes.
+Answer 113: C - Information needs and project context Explanation: Documentation should be
+tailored to provide necessary information efficiently.
+Answer 114: B - Performance against the Stage Plan Explanation: End Stage Reports summarize
+stage performance and achievements.
+Answer 115: C - An issue requiring a decision Explanation: Significant supplier changes are issues
+requiring management decisions.
+Answer 116: B - To describe all communication needs and approaches Explanation: The
+Communication Management Strategy covers all project communication requirements.
+Answer 117: C - When the project can no longer be justified or objectives achieved Explanation:
+Projects should close when they complete objectives or lose justification.
+Answer 118: A - Work Package tolerances Explanation: Work Package tolerances can include
+authority for minor specification changes.
+Answer 119: B - The Business Case should be updated and reviewed Explanation: Reduced benefits
+may affect project justification and require Business Case review.
+Answer 120: C - Tailor to Suit the Project Environment Explanation: This principle requires
+proportional application of Prince2 based on project characteristics.
+Scoring Guide
+100-120 correct (83-100%): Excellent - Ready for the exam
+84-99 correct (70-82%): Good - Review weak areas
+72-83 correct (60-69%): Fair - Significant study needed
+Below 72 (Below 60%): More preparation required
+Advanced Study Areas for Set 3
+This comprehensive set emphasizes:
+
+Integration and Application (40 questions)
+How themes, processes, and principles work together
+Real-world scenario application
+Cross-theme dependencies and relationships
+Decision Making and Escalation (25 questions)
+When to escalate vs. handle locally
+Authority levels and delegation
+Exception management and tolerance
+Product and Quality Management (20 questions)
+Product-based planning application
+Quality planning, control, and assurance differences
+Configuration management principles
+Risk and Issue Management (15 questions)
+Risk vs. issue distinction
+Risk response strategies
+Issue resolution approaches
+Communication and Reporting (12 questions)
+Stakeholder information needs
+Reporting frequency and content
+Communication strategy application
+Business Case and Benefits (8 questions)
+Continued business justification
+Benefits realization responsibility
+Business case maintenance
+Combined Preparation Strategy
+With all three sets (240 total questions), you now have comprehensive coverage of:
+
+1. Fundamental Concepts (Set 1) - Basic principles, themes, processes
+2. Integration and Application (Set 2) - How components work together
+3. Advanced Scenarios (Set 3) - Complex decision-making situations
+Final Exam Tips
+Focus on decision-making: Many questions test who makes what decisions
+Understand escalation: Know when to escalate vs. handle locally
+Practice tolerance scenarios: Understand different tolerance levels
+Review role responsibilities: Clear understanding of who does what
+Study product management: Product-based planning is frequently tested
+This comprehensive question bank should thoroughly prepare you for the Prince2 Foundation
+exam!

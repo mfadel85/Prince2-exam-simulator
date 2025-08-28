@@ -1,0 +1,325 @@
+
+
+Prince2 Foundation Practice Exam - Set 2
+60 Questions with Detailed Solutions
+Instructions
+Each question has 4 multiple choice options (A, B, C, D)
+Select the BEST answer for each question
+Solutions and explanations are provided at the end
+Time allocation: 60 minutes (1 minute per question)
+QUESTIONS
+Question 1: Which Prince2 principle requires that every project should have a clear understanding
+of how it will deliver benefits? A) Manage by Stages B) Continued Business Justification C) Focus on
+Products D) Learn from Experience
+Question 2: What is the primary responsibility of the Senior Supplier in the Project Board? A) To
+represent user interests B) To provide overall direction C) To represent supplier interests and provide
+resources D) To manage day-to-day activities
+Question 3: In which process would you typically create the Project Product Description? A)
+Starting up a Project B) Initiating a Project C) Controlling a Stage D) Managing a Stage Boundary
+Question 4: What is the main purpose of an End Stage Report? A) To request authorization for the
+next stage B) To provide a summary of stage achievements C) To report project completion D) To
+escalate stage issues
+Question 5: According to Prince2, what should happen if project tolerance is exceeded? A) The
+project should continue with revised plans B) The Project Manager should create an Exception
+Report C) The project should be terminated immediately D) Corporate or Programme Management
+should be informed
+Question 6: Which of the following is NOT a component of the Business Case? A) Executive
+Summary B) Risk Register C) Reasons D) Options
+Question 7: In Prince2, what is the purpose of the Issue Register? A) To record all project products
+B) To capture and maintain information about issues C) To track project progress D) To document
+
+lessons learned
+Question 8: What is the recommended frequency for producing Highlight Reports? A) Daily B)
+Weekly C) Monthly D) As defined in the Communication Management Strategy
+Question 9: Which theme addresses the question "How will the project's products be delivered?" A)
+Organization B) Plans C) Quality D) Change
+Question 10: In Prince2 terminology, what is a 'baseline'? A) The minimum acceptable quality level
+B) A reference point against which progress can be measured C) The project start date D) The
+lowest cost estimate
+Question 11: Which process contains the activity 'Authorize the project'? A) Starting up a Project B)
+Initiating a Project C) Directing a Project D) Controlling a Stage
+Question 12: What is the main difference between management stages and technical stages? A)
+Management stages are longer than technical stages B) Management stages are for planning,
+technical stages for delivery C) Management stages are commitment points for senior management
+D) There is no difference
+Question 13: In the Risk theme, what is meant by 'risk tolerance'? A) The project's attitude toward
+risk B) The threshold levels of risk that are acceptable C) The maximum number of risks allowed D)
+The cost of risk management
+Question 14: Which role has the authority to authorize Work Packages? A) Team Manager B)
+Project Manager C) Senior User D) Project Executive
+Question 15: What triggers the 'Managing Product Delivery' process? A) Project authorization B)
+Stage authorization C) Work Package authorization D) Product completion
+Question 16: In Prince2, what is the purpose of a Product Description? A) To show product
+dependencies B) To define a product's purpose, composition, and quality criteria C) To estimate
+product costs D) To assign product ownership
+Question 17: Which of the following best describes 'earned value management'? A) A technique
+for estimating project costs B) A method for measuring project performance C) A way to calculate
+project benefits D) A risk assessment technique
+Question 18: What is the main purpose of the Quality Management Strategy? A) To define quality
+standards for the project B) To describe quality control procedures C) To specify how quality will be
+achieved and assessed D) To identify quality roles and responsibilities
+
+Question 19: In Prince2, when should the Project Initiation Documentation be created? A) Before
+the project starts B) During the Initiating a Project process C) At the end of the initiation stage D)
+When requested by the Project Board
+Question 20: Which of the following is a valid reason for creating an Exception Plan? A) Regular
+stage planning B) Stage tolerance is exceeded C) New team members join D) Annual planning cycle
+Question 21: What is the primary purpose of the Daily Log? A) To record formal project decisions
+B) To track team productivity C) To record informal notes and actions for the Project Manager D) To
+document quality checks
+Question 22: In Prince2, what does 'embedding' mean in the context of project management? A)
+Making Prince2 part of the organizational culture B) Training all staff in Prince2 C) Using Prince2 for
+all projects D) Certifying Project Managers
+Question 23: Which tolerance level would typically be the smallest? A) Project tolerance B) Stage
+tolerance C) Work Package tolerance D) They are all equal
+Question 24: What is the purpose of impact analysis in the Change theme? A) To identify who will
+be affected by changes B) To assess the effect of a proposed change C) To calculate change costs D)
+To schedule change implementation
+Question 25: In Prince2, what happens during the 'Closing a Project' process? A) Final products are
+delivered B) The project is evaluated and closed down C) Remaining work is transferred D) All of the
+above
+Question 26: Which of the following is NOT a trigger for the Managing a Stage Boundary process?
+A) Approaching the end of a stage B) Exception situation requiring a new plan C) Daily progress
+reporting D) Ad hoc direction from the Project Board
+Question 27: What is the main characteristic of a management product? A) It is delivered to the
+customer B) It is created to help manage the project C) It requires special skills to create D) It is the
+final output of the project
+Question 28: In Prince2, what is meant by 'quality planning'? A) Scheduling quality activities B)
+Defining quality criteria and methods C) Assigning quality responsibilities D) Budgeting for quality
+activities
+Question 29: Which process is responsible for capturing lessons during project execution? A)
+Starting up a Project B) Controlling a Stage C) Managing Product Delivery D) Closing a Project
+
+Question 30: What is the recommended action when a risk materializes (becomes an issue)? A)
+Update the Risk Register only B) Create an entry in the Issue Register and update the Risk Register
+C) Ignore it as it's no longer a risk D) Report it immediately to the Project Board
+Question 31: In Prince2, what is the purpose of the Organization theme? A) To define the company
+structure B) To define roles, responsibilities and communication structure C) To organize project
+activities D) To structure project documentation
+Question 32: Which of the following is a benefit of using management stages? A) Faster project
+delivery B) Lower project costs C) Regular review and authorization points D) Reduced
+documentation
+Question 33: What is the main purpose of a Product Flow Diagram? A) To show product costs B) To
+show the sequence and dependencies of product delivery C) To show product quality requirements
+D) To show product ownership
+Question 34: In Prince2, what is 'customer acceptance'? A) Formal confirmation that products meet
+requirements B) Customer satisfaction survey results C) Payment for delivered products D)
+Customer sign-off on project closure
+Question 35: Which of the following best describes the 'Manage by Stages' principle? A) Projects
+should be divided into technical stages B) Each stage should have different objectives C) Projects
+should be planned and controlled stage by stage D) Stages should be of equal duration
+Question 36: What is the primary purpose of the Project Mandate? A) To authorize the project B)
+To provide the trigger and purpose for the project C) To define project scope D) To estimate project
+costs
+Question 37: In the Progress theme, what are 'controls'? A) Project constraints B) Mechanisms for
+decision-making and direction C) Quality checkpoints D) Risk mitigation measures
+Question 38: Which role is typically responsible for Project Assurance activities? A) Project Manager
+B) Team Manager C) Project Board members or their delegates D) External auditors
+Question 39: What should be the basis for creating a Stage Plan? A) The Project Plan B) Available
+resources C) Time constraints D) Budget limitations
+Question 40: In Prince2, what is a 'decision log'? A) Record of all project decisions B) Part of the
+Daily Log for informal decisions C) Formal register of board decisions D) Prince2 doesn't use
+decision logs
+
+Question 41: Which of the following would typically require Change Authority approval? A) Major
+scope changes B) Minor specification changes within tolerance C) Risk responses D) Resource
+allocation
+Question 42: What is the main purpose of the Project Plan? A) To show detailed activities B) To
+provide high-level project overview for the Project Board C) To assign work to teams D) To track
+daily progress
+Question 43: In Prince2, what is meant by 'continual business justification'? A) Business case is
+created once and never changed B) Business case must be reviewed and updated throughout the
+project C) All activities must show immediate business value D) Business justification is only needed
+at project start
+Question 44: Which process includes the activity 'Prepare premature closure'? A) Closing a Project
+B) Directing a Project C) Controlling a Stage D) Managing a Stage Boundary
+Question 45: What is the purpose of the Risk Management Strategy? A) To list all project risks B) To
+describe how risk will be managed on the project C) To assign risk ownership D) To calculate risk
+costs
+Question 46: In Prince2, what is meant by 'follow-on action recommendations'? A) Next steps for
+the project team B) Recommendations for unfinished work or ongoing activities C) Actions for the
+next project D) Maintenance activities
+Question 47: Which of the following is a characteristic of effective Project Board members? A)
+Detailed knowledge of project activities B) Authority to commit resources they represent C) Daily
+involvement in project work D) Technical expertise in all project areas
+Question 48: What is the main purpose of the Change Control approach? A) To prevent all changes
+B) To assess and control changes to baselines C) To speed up change implementation D) To reduce
+change costs
+Question 49: In Prince2, what is the relationship between products and activities? A) Products are
+created by activities B) Activities are more important than products C) There is no relationship D)
+Activities create products and products enable activities
+Question 50: Which of the following would be found in a Work Package? A) Detailed activity
+schedules B) Product Descriptions and constraints C) Risk responses D) Business case updates
+
+Question 51: What is the main purpose of quality control in Prince2? A) To plan quality activities B)
+To check that products meet quality criteria C) To improve quality processes D) To assign quality
+responsibilities
+Question 52: In Prince2, what triggers an End Project Report? A) Project completion B) Project
+Board request C) Budget exhaustion D) Approaching project closure
+Question 53: Which principle emphasizes that project teams should actively seek out lessons from
+previous projects? A) Continued Business Justification B) Learn from Experience C) Manage by
+Exception D) Defined Roles and Responsibilities
+Question 54: What is the recommended content of a lessons report at project closure? A) All
+mistakes made during the project B) Lessons that could benefit future projects C) Personal feedback
+on team members D) Technical problems encountered
+Question 55: In Prince2, what is the purpose of change control? A) To implement changes quickly
+B) To ensure changes are properly evaluated and authorized C) To reduce the number of changes D)
+To eliminate change costs
+Question 56: Which of the following is NOT a valid project outcome according to Prince2? A)
+Project delivered on time and budget B) Project delivered late but within budget C) Project
+terminated early D) Project continues indefinitely
+Question 57: What is the primary focus of the 'Focus on Products' principle? A) Manufacturing
+products efficiently B) Understanding and agreeing what the project will deliver C) Maximizing
+product value D) Reducing product costs
+Question 58: In Prince2, when would you typically update the Business Case? A) Only at project
+start B) At the end of each stage C) Throughout the project as required D) Only when problems
+occur
+Question 59: Which of the following best describes quality assurance in Prince2? A) Testing
+products for defects B) Independent monitoring of project management processes C) Training team
+members in quality techniques D) Creating quality documentation
+Question 60: What is the main benefit of using product-based planning in Prince2? A) Faster
+planning process B) Lower planning costs C) Clear understanding of what must be delivered D)
+Reduced planning documentation
+
+ANSWERS AND EXPLANATIONS
+Answer 1: B - Continued Business Justification Explanation: This principle requires that projects
+remain justified throughout their lifecycle by delivering benefits.
+Answer 2: C - To represent supplier interests and provide resources Explanation: The Senior Supplier
+represents those designing, developing, facilitating, procuring, and implementing the project.
+Answer 3: A - Starting up a Project Explanation: The Project Product Description is created during
+Starting up a Project to define what the project must deliver.
+Answer 4: B - To provide a summary of stage achievements Explanation: End Stage Reports
+summarize the performance of the completed stage against its Stage Plan.
+Answer 5: D - Corporate or Programme Management should be informed Explanation: Project
+tolerance is set by the layer above the Project Board, so they must be informed if it's exceeded.
+Answer 6: B - Risk Register Explanation: The Risk Register is a separate document. Business Case
+components include Executive Summary, Reasons, Options, Expected Benefits, Expected Dis-benefits,
+Timescale, Costs, Investment Appraisal, and Major Risks.
+Answer 7: B - To capture and maintain information about issues Explanation: The Issue Register is
+the repository for all issues raised during the project.
+Answer 8: D - As defined in the Communication Management Strategy Explanation: The frequency
+is tailored to project needs and defined in the Communication Management Strategy.
+Answer 9: B - Plans Explanation: The Plans theme addresses the questions of how, when, and by
+whom products will be delivered.
+Answer 10: B - A reference point against which progress can be measured Explanation: A baseline
+is an approved version of a product or plan used as a basis for comparison.
+Answer 11: C - Directing a Project Explanation: The Project Board authorizes the project through the
+'Authorize the project' activity in Directing a Project.
+Answer 12: C - Management stages are commitment points for senior management Explanation:
+Management stages provide senior management with control points for authorization and resource
+commitment.
+Answer 13: B - The threshold levels of risk that are acceptable Explanation: Risk tolerance defines
+the boundaries of acceptable risk levels for the project.
+
+Answer 14: B - Project Manager Explanation: The Project Manager has the authority to authorize
+Work Packages to Team Managers.
+Answer 15: C - Work Package authorization Explanation: Managing Product Delivery is triggered
+when a Work Package is authorized by the Project Manager.
+Answer 16: B - To define a product's purpose, composition, and quality criteria Explanation: Product
+Descriptions specify what products are, why they're needed, and what makes them acceptable.
+Answer 17: B - A method for measuring project performance Explanation: While not explicitly part
+of Prince2, earned value management is a performance measurement technique.
+Answer 18: C - To specify how quality will be achieved and assessed Explanation: The Quality
+Management Strategy describes the quality techniques, standards, and responsibilities.
+Answer 19: B - During the Initiating a Project process Explanation: The PID is created during project
+initiation to establish the foundation for project management.
+Answer 20: B - Stage tolerance is exceeded Explanation: Exception Plans are created when stage
+tolerance is exceeded and approved by the Project Board.
+Answer 21: C - To record informal notes and actions for the Project Manager Explanation: The Daily
+Log is the Project Manager's informal diary for recording observations and actions.
+Answer 22: A - Making Prince2 part of the organizational culture Explanation: Embedding means
+integrating Prince2 principles and practices into the organization's way of working.
+Answer 23: C - Work Package tolerance Explanation: Tolerances typically decrease at each level, with
+Work Package tolerance being the most restrictive.
+Answer 24: B - To assess the effect of a proposed change Explanation: Impact analysis evaluates the
+implications of a proposed change on the project's objectives.
+Answer 25: D - All of the above Explanation: Closing a Project includes evaluating the project,
+ensuring handover, and formally closing the project.
+Answer 26: C - Daily progress reporting Explanation: Daily reporting is part of regular project
+control, not a trigger for Managing a Stage Boundary.
+Answer 27: B - It is created to help manage the project Explanation: Management products are
+created to plan, monitor, and control the project.
+
+Answer 28: B - Defining quality criteria and methods Explanation: Quality planning involves
+defining what quality means and how it will be achieved.
+Answer 29: B - Controlling a Stage Explanation: Lessons are captured throughout project execution
+as part of controlling stages.
+Answer 30: B - Create an entry in the Issue Register and update the Risk Register Explanation:
+When risks materialize, they become issues and both registers need updating.
+Answer 31: B - To define roles, responsibilities and communication structure Explanation: The
+Organization theme establishes the project's management structure.
+Answer 32: C - Regular review and authorization points Explanation: Management stages provide
+natural break points for senior management review and decision-making.
+Answer 33: B - To show the sequence and dependencies of product delivery Explanation: Product
+Flow Diagrams illustrate the order in which products should be developed.
+Answer 34: A - Formal confirmation that products meet requirements Explanation: Customer
+acceptance is the formal agreement that delivered products are satisfactory.
+Answer 35: C - Projects should be planned and controlled stage by stage Explanation: This principle
+ensures projects are manageable by dividing them into stages.
+Answer 36: B - To provide the trigger and purpose for the project Explanation: The Project Mandate
+provides the initial authority and rationale for starting the project.
+Answer 37: B - Mechanisms for decision-making and direction Explanation: Controls are the means
+by which the Project Board directs and controls the project.
+Answer 38: C - Project Board members or their delegates Explanation: Project Assurance is the
+responsibility of Project Board members, often delegated to others.
+Answer 39: A - The Project Plan Explanation: Stage Plans are detailed breakdowns of the relevant
+portion of the Project Plan.
+Answer 40: B - Part of the Daily Log for informal decisions Explanation: Prince2 doesn't have a
+separate decision log; informal decisions are recorded in the Daily Log.
+Answer 41: B - Minor specification changes within tolerance Explanation: Change Authority
+typically handles smaller changes within defined limits.
+
+Answer 42: B - To provide high-level project overview for the Project Board Explanation: The Project
+Plan gives the Project Board an overview of how and when objectives will be achieved.
+Answer 43: B - Business case must be reviewed and updated throughout the project Explanation:
+Continual business justification means the business case is kept current throughout the project.
+Answer 44: A - Closing a Project Explanation: Premature closure preparation is an activity within the
+Closing a Project process.
+Answer 45: B - To describe how risk will be managed on the project Explanation: The Risk
+Management Strategy defines the risk management approach for the project.
+Answer 46: B - Recommendations for unfinished work or ongoing activities Explanation: Follow-on
+actions are recommendations for work not completed during the project.
+Answer 47: B - Authority to commit resources they represent Explanation: Project Board members
+must have the authority to make decisions for their stakeholder groups.
+Answer 48: B - To assess and control changes to baselines Explanation: Change control ensures that
+changes are properly evaluated before implementation.
+Answer 49: A - Products are created by activities Explanation: In product-based planning, activities
+are derived from the products that need to be created.
+Answer 50: B - Product Descriptions and constraints Explanation: Work Packages contain the
+information needed to create specified products.
+Answer 51: B - To check that products meet quality criteria Explanation: Quality control involves
+checking and testing products against their quality criteria.
+Answer 52: D - Approaching project closure Explanation: The End Project Report is prepared during
+the Closing a Project process.
+Answer 53: B - Learn from Experience Explanation: This principle requires teams to learn from
+previous projects and apply those lessons.
+Answer 54: B - Lessons that could benefit future projects Explanation: Lessons reports should focus
+on insights that will help future similar projects.
+Answer 55: B - To ensure changes are properly evaluated and authorized Explanation: Change
+control provides a systematic approach to managing change requests.
+
+Answer 56: D - Project continues indefinitely Explanation: All projects must have a defined end
+point; continuing indefinitely violates project principles.
+Answer 57: B - Understanding and agreeing what the project will deliver Explanation: Focus on
+Products ensures clear definition and agreement on project deliverables.
+Answer 58: C - Throughout the project as required Explanation: The Business Case should be
+updated whenever circumstances change significantly.
+Answer 59: B - Independent monitoring of project management processes Explanation: Quality
+assurance involves independent monitoring to ensure processes are followed correctly.
+Answer 60: C - Clear understanding of what must be delivered Explanation: Product-based planning
+ensures all stakeholders have a clear view of project deliverables.
+Scoring Guide
+50-60 correct (83-100%): Excellent - Ready for the exam
+42-49 correct (70-82%): Good - Review weak areas
+36-41 correct (60-69%): Fair - Significant study needed
+Below 36 (Below 60%): More preparation required
+Study Focus Areas for Set 2
+Pay special attention to:
+Process Integration: How the seven processes work together
+Product Management: Product descriptions, flow diagrams, and product-based planning
+Quality Management: Quality planning, control, and assurance differences
+Change Control: Change authority vs. Project Board decision-making
+Progress Control: Tolerances, reporting, and exception management
+Business Case Management: When and how to update throughout the project
+This second set focuses more on integration concepts and practical application of Prince2
+principles!

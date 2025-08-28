@@ -1,0 +1,378 @@
+
+
+PRINCE2 Foundation Mock Exam (60 Questions)
+This original practice paper simulates the PRINCE2® Foundation exam.
+Format: 60 MCQs · 60 minutes · 1 mark each. Suggested pass: 33/60 (55%).
+Answers with rationales are provided at the end.
+Section A: Principles
+1. Which PRINCE2 principle ensures ongoing alignment with organisational strategy and benefits?
+   a) Manage by stages
+   b) Continued business justification
+   c) Focus on products
+   d) Learn from experience
+2. Tailor to suit the project environment means:
+   a) Change principles as needed
+   b) Adjust themes/processes/management products to context
+   c) Remove governance to be agile
+   d) Use minimal documentation always
+3. Which principle clarifies accountability across business, user and supplier?
+   a) Defined roles and responsibilities
+   b) Manage by exception
+   c) Learn from experience
+   d) Focus on products
+4. Use of tolerances and escalation by exception is part of:
+   a) Manage by stages
+   b) Manage by exception
+   c) Focus on products
+   d) Learn from experience
+5. Creating product descriptions before planning activities applies:
+   a) Focus on products
+   b) Manage by stages
+   c) Continued business justification
+   d) Defined roles and responsibilities
+6. Re·evaluating viability at each boundary reflects:
+   a) Learn from experience
+   b) Manage by stages
+   c) Manage by exception
+   d) Tailor to suit
+7. Capturing and applying lessons throughout supports:
+   a) Learn from experience
+   b) Focus on products
+   c) Defined roles and responsibilities
+   d) Manage by exception
+8. About PRINCE2 principles which is TRUE?
+   a) All seven are mandatory
+   b) Only five are mandatory
+   c) They are optional guidelines
+   d) They apply only to large projects
+Section B: Themes
+
+9. Who owns the Business Case?
+   a) Project Manager
+   b) Executive
+   c) Senior User
+   d) Senior Supplier
+10. Which product contains costs, benefits, risks and timescales?
+   a) Business Case
+   b) Project Brief
+   c) PID
+   d) Benefits Management Approach
+11. When should the Business Case be reviewed?
+   a) Only at closure
+   b) At each stage end and on exceptions
+   c) Only in initiation
+   d) Weekly by PM
+12. Project Board provides:
+   a) Daily management
+   b) Direction and control by exception
+   c) Configuration records
+   d) Work Package detail
+13. Senior User is responsible for:
+   a) Technical feasibility
+   b) Benefits and user needs
+   c) Quality reviews only
+   d) Risk ownership only
+14. Project Assurance best described as:
+   a) Same as Support
+   b) Independent checking of performance and products
+   c) External audit only
+   d) A PM task
+15. Customer acceptance criteria are in:
+   a) Project Product Description
+   b) Quality Register
+   c) Issue Register
+   d) Risk Register
+16. Quality tolerance is recorded in:
+   a) Product Descriptions
+   b) End Stage Report
+   c) Benefits Approach
+   d) Checkpoint Report
+17. Purpose of Quality Register:
+   a) Schedule/track quality activities
+   b) List configuration items
+   c) Record changes
+   d) Escalate exceptions
+18. Recommended plan levels:
+   a) Corporate, Project, Team
+   b) Project, Stage, Team
+   c) Programme, Project, Work Package
+   d) Portfolio, Project, Stage
+
+19. First step in product·based planning:
+   a) List activities
+   b) Create Product Breakdown Structure
+   c) Estimate effort
+   d) Assign resources
+20. Which document plans benefits measurement timing?
+   a) Project Plan
+   b) Benefits Management Approach
+   c) Quality Management Approach
+   d) PID only
+21. A positive risk is:
+   a) Threat
+   b) Issue
+   c) Opportunity
+   d) Exception
+22. Typical threat response is:
+   a) Exploit
+   b) Enhance
+   c) Avoid
+   d) Share
+23. Risk owner vs actionee:
+   a) Owner decides; actionee implements responses
+   b) Same person always
+   c) Owner implements; actionee decides
+   d) Neither monitors exposure
+24. Register for change requests and off·specs:
+   a) Issue Register
+   b) Risk Register
+   c) Lessons Log
+   d) Daily Log
+25. Purpose of configuration management:
+   a) Control versions/status/relationships of products
+   b) Manage meetings
+   c) Plan sprints
+   d) Track benefits
+26. Change Authority may be:
+   a) Only the Board
+   b) Executive only
+   c) Delegated person/group within budget
+   d) Corporate only
+27. Which is NOT a control?
+   a) Tolerances
+   b) Time·driven reports
+   c) Event·driven reviews
+   d) Critical Path Method
+28. Exception Plan is created when:
+   a) Minor issue occurs
+   b) Forecast exceeds tolerance
+   c) Product completed early
+   d) At closure only
+
+29. Highlight Reports are:
+   a) To Team Managers
+   b) Time·driven for the Board
+   c) For suppliers only
+   d) For users only
+30. Who assesses major change impact?
+   a) Change Authority
+   b) Project Board
+   c) PM alone
+   d) Senior Supplier only
+31. Who accepts completed products?
+   a) Team Manager
+   b) Executive
+   c) User representatives
+   d) Change Authority
+32. Quality control activities include:
+   a) Verification/validation vs criteria
+   b) Setting corporate policy
+   c) Approving Business Case
+   d) Raising exceptions only
+Section C: Processes
+33. Purpose of Starting up a Project (SU):
+   a) Authorize project
+   b) Ensure prerequisites for initiation
+   c) Approve PID
+   d) Close project
+34. Key output of SU:
+   a) Project Brief
+   b) Exception Plan
+   c) Benefits Approach
+   d) End Stage Report
+35. Roles appointed in SU:
+   a) Executive and Project Manager
+   b) Team Manager only
+   c) Change Authority
+   d) Senior Supplier only
+36. Key output of Initiating a Project:
+   a) PID
+   b) Project Brief
+   c) Exception Report
+   d) Checkpoint Report
+37. Which approach is NOT produced in IP?
+   a) Risk Management Approach
+   b) Quality Management Approach
+   c) Benefits Management Approach
+   d) Team Management Approach
+38. Communication needs are planned in the:
+   a) Communication Management Approach
+   b) Stakeholder Register only
+   c) Lessons Log
+   d) Team Plan
+
+39. Directing a Project is performed by:
+   a) Project Manager
+   b) Project Board
+   c) Team Manager
+   d) Project Assurance only
+40. DP activity includes:
+   a) Authorize initiation
+   b) Produce PID
+   c) Accept Work Package
+   d) Update Team Plan
+41. Who approves Exception Plans?
+   a) Project Manager
+   b) Team Manager
+   c) Project Board
+   d) Change Authority
+42. Which product authorizes team work?
+   a) Work Package
+   b) End Stage Report
+   c) Checkpoint Report
+   d) Issue Report
+43. Time·driven report from teams:
+   a) Checkpoint Report
+   b) Exception Report
+   c) End Project Report
+   d) Lessons Report
+44. First action when an issue is raised:
+   a) Escalate immediately
+   b) Record and assess in Issue Register
+   c) Ignore minor issues
+   d) Change plan without record
+45. Managing Product Delivery focuses on:
+   a) Authorizing stages
+   b) Accepting/executing/delivering Work Packages
+   c) Updating Business Case
+   d) Approving exceptions
+46. Confirms understanding of work/constraints:
+   a) Work Package acceptance
+   b) Product Description
+   c) Daily Log
+   d) Risk Register
+47. Completed product handover is recorded via:
+   a) Product Status Account and quality records
+   b) Risk Register
+   c) Issue Register only
+   d) Checkpoint Report
+48. End of stage performance summary:
+   a) End Stage Report
+   b) Highlight Report
+   c) Checkpoint Report
+   d) Lessons Report only
+
+49. Plan refined for the next period of control:
+   a) Project Plan
+   b) Next Stage Plan
+   c) Team Plan only
+   d) Benefits Plan
+50. Exception at boundary results in:
+   a) Immediate closure
+   b) Board decision and possibly an Exception Plan
+   c) Automatic tolerance increase
+   d) Change Authority decision only
+51. Customer acceptance confirmed by:
+   a) Acceptance/handover records
+   b) Lessons Report
+   c) Risk Register
+   d) Issue Register
+52. End Project Report includes:
+   a) Next Stage Plan
+   b) Benefits to date and recommendations
+   c) Team Plans
+   d) New Business Case
+53. Post·project reviews are planned in:
+   a) Benefits Management Approach
+   b) PID
+   c) Quality Approach
+   d) Risk Approach
+54. Who decides whether to continue after an exception?
+   a) Project Manager
+   b) Project Board
+   c) Senior User
+   d) Team Manager
+55. Which process receives Exception Reports?
+   a) Managing Product Delivery
+   b) Directing a Project
+   c) Starting up a Project
+   d) Closing a Project
+56. Which activity belongs to SB rather than CS?
+   a) Review WP status
+   b) Produce Next Stage Plan
+   c) Take corrective action within tolerance
+   d) Produce Checkpoint Reports
+Section D: Tailoring & Roles
+57. Who ensures alignment with business objectives and benefits realisation?
+   a) Executive (with Senior User for benefits)
+   b) Project Manager
+   c) Senior Supplier
+   d) Project Support
+58. Tailoring should be documented primarily in:
+   a) Project Brief
+   b) PID
+   c) Benefits Management Approach
+   d) Work Package
+
+59. Which statement about roles is TRUE?
+   a) Project Board collectively owns success
+   b) Only Executive is accountable
+   c) PM is a Board member
+   d) PM performs Project Assurance
+60. Guiding principle when tailoring documentation:
+   a) Minimize docs regardless of risk
+   b) Right·size controls to scale/complexity/risk
+   c) Remove quality records
+   d) Use only verbal reporting
+
+Answer Key & Explanations
+Q1: B · Projects must remain desirable, viable and achievable; stop if justification is lost.
+Q2: B · Principles are universal; tailoring applies to themes, processes, roles and products.
+Q3: A · PRINCE2 defines clear responsibilities and decision·making interfaces.
+Q4: B · Delegation with tolerances and escalation only on breach.
+Q5: A · Define and agree products first to drive the plan and acceptance criteria.
+Q6: B · Stage control provides periodic re·justification and re·planning.
+Q7: A · Lessons are sought, recorded and applied proactively.
+Q8: A · All seven principles must be applied for a project to be PRINCE2.
+Q9: B · The Executive is accountable for continued business justification.
+Q10: A · The Business Case documents investment appraisal.
+Q11: B · Reviewed at boundaries; Board decides to continue.
+Q12: B · Board directs; PM manages day·to·day.
+Q13: B · Senior User specifies and realizes benefits.
+Q14: B · Performed independently of the PM.
+Q15: A · PPD holds acceptance criteria and expectations.
+Q16: A · Each Product Description has criteria and tolerance.
+Q17: A · Tracks planned and performed quality events.
+Q18: B · Project Plan, Stage Plans and optional Team Plans.
+Q19: B · Start with PBS then PFD and activities.
+Q20: B · Benefits reviews and responsibilities are defined here.
+Q21: C · Opportunities can be exploited/enhanced/shared.
+Q22: C · Avoid/reduce/transfer/accept for threats.
+Q23: A · Owner accountable; actionee executes specific actions.
+Q24: A · Issues encompass changes, off·specs and problems.
+Q25: A · Ensures product integrity and status accounting.
+Q26: C · Board can delegate limited authority within a change budget.
+Q27: D · CPM is a technique, not a PRINCE2 control.
+Q28: B · Produced when forecast breaches tolerance.
+Q29: B · Provide regular updates to Board between stage ends.
+Q30: B · Significant changes typically go to the Board.
+Q31: C · Users accept on behalf of the user community.
+Q32: A · Reviews/tests/inspections against criteria.
+Q33: B · SU confirms a viable project exists to initiate.
+Q34: A · The Project Brief refines the mandate.
+Q35: A · Executive and PM are designed and appointed.
+Q36: A · PID consolidates baselines and strategies.
+Q37: D · No PRINCE2 product named Team Management Approach.
+Q38: A · Defines who needs what information, when and how.
+Q39: B · Board provides overall direction and decisions.
+Q40: A · Board authorizes initiation, stages, exceptions and closure.
+Q41: C · Board decides on exceptions beyond tolerance.
+Q42: A · Work Packages define and authorize work to teams.
+Q43: A · Checkpoint Reports are produced at agreed intervals.
+Q44: B · Capture and evaluate per Change theme.
+Q45: B · MP ensures delivery to quality and constraints.
+Q46: A · Accepting the WP confirms understanding and commitment.
+Q47: A · Configuration and quality records document delivery.
+Q48: A · Summarizes actuals, issues, risks, lessons.
+Q49: B · Next Stage Plan is produced and submitted.
+Q50: B · Board decides whether to continue and approves Exception Plan if required.
+Q51: A · Formal acceptance and transfer records.
+Q52: B · Compares results vs baselines and recommends follow·up.
+Q53: A · Defines when/how benefits will be measured after closure.
+Q54: B · Board directs the project and decides on exceptions.
+Q55: B · Exception Reports go to the Board as part of DP.
+Q56: B · Producing the next Stage Plan is SB.
+Q57: A · Executive owns justification; Senior User ensures benefits are realized.
+Q58: B · PID consolidates strategies and tailoring decisions.
+Q59: A · Board is collectively accountable; Executive leads.
+Q60: B · Balance control with effort appropriate to context.
