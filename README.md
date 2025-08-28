@@ -92,11 +92,12 @@ export const questionBank: Question[] = [
 
 Static export is enabled (`output: 'export'`). Use Cloudflare Pages with:
 
-1. **Build command**: `npm run build`
-2. **Build output directory**: `out`
-3. **Node version**: 18+ (set in Pages settings if needed)
+1. **Build command**: `npm run pages:build`
+2. **Deploy command**: `npm run deploy` (required field; it is a no‑op that returns success)
+3. **Output directory**: `out`
+4. **Node version**: 18+ (set in Pages settings if needed)
 
-Do NOT run `wrangler deploy` for Pages. Pages automatically serves the static `out` directory after the build.
+The build script first runs `next build` then `next export` via `pages:build`. The deploy step is a placeholder because Pages requires a deploy command if specified; static assets are already in `out/`.
 
 ### Build Commands
 
