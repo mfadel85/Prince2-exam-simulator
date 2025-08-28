@@ -4,12 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
-  "extract:pdfs": "node -r ts-node/register scripts/extract-pdfs.ts",
-  "extract:text": "node scripts/dump-pdf-text.js",
-  "parse:questions": "node scripts/parse-text-dumps.js"
+    "export": "next export",
+    "extract:pdfs": "node -r ts-node/register scripts/extract-pdfs.ts",
+    "extract:text": "node scripts/dump-pdf-text.js",
+    "parse:questions": "node scripts/parse-text-dumps.js"
   },
   "dependencies": {
     "next": "^14.2.32",

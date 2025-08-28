@@ -90,15 +90,13 @@ export const questionBank: Question[] = [
 
 ### Cloudflare Pages
 
-This application is optimized for Cloudflare Pages deployment:
+Static export is enabled (`output: 'export'`). Use Cloudflare Pages with:
 
-1. **Build Configuration**:
-   - Build command: `npm run build`
-   - Build output directory: `out`
-   - Node.js version: `18` or higher
+1. **Build command**: `npm run build`
+2. **Build output directory**: `out`
+3. **Node version**: 18+ (set in Pages settings if needed)
 
-2. **Static Export**: The `next.config.js` is configured for static export
-3. **Automatic Deployment**: Push to your GitHub repository to trigger builds
+Do NOT run `wrangler deploy` for Pages. Pages automatically serves the static `out` directory after the build.
 
 ### Build Commands
 
