@@ -96,7 +96,7 @@ export default function ReviewPage() {
               <div key={i} className="p-4 border rounded-lg bg-gray-50">
                 <h2 className="font-medium text-gray-800 mb-2">Q{i + 1}. {item.q}</h2>
                 <p className="text-sm"><span className="font-semibold text-red-600">Your answer:</span> {item.selected ? `${item.selected} – ${selectedText}` : 'No answer'}</p>
-                <p className="text-sm"><span className="font-semibold text-green-700">Correct:</span> {item.correct} – {correctText}</p>
+                <p className="text-sm font-semibold text-black">Correct: {item.correct} – {correctText}</p>
                 {item.options && (
                   <details className="mt-2 text-xs">
                     <summary className="cursor-pointer text-gray-600">Show all options</summary>
