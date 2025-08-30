@@ -36,7 +36,11 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
             q: i.question.question,
             selected: i.selectedAnswer ?? null,
             correct: i.question.correctAnswer,
-            explanation: i.question.explanation || null
+            explanation: i.question.explanation || null,
+            options: i.question.options,
+            // denormalized texts for resilience if bank changes later
+            selectedText: i.selectedAnswer ? i.question.options[i.selectedAnswer.charCodeAt(0)-65] : null,
+            correctText: i.question.options[i.question.correctAnswer.charCodeAt(0)-65]
         }))
       };
       existing.push(attempt);

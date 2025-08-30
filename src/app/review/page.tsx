@@ -4,9 +4,12 @@ import React from 'react';
 interface StoredAttemptItem {
   id: string;
   q: string;
-  selected: string | null;
-  correct: string;
+  selected: string | null; // letter
+  correct: string; // letter
   explanation: string | null;
+  options?: string[]; // optional (added later)
+  selectedText?: string | null;
+  correctText?: string | null;
 }
 interface StoredAttempt {
   date: string;
@@ -86,14 +89,28 @@ export default function ReviewPage() {
         </div>
 
         <div className="space-y-4 max-h-[70vh] overflow-y-auto pr-1">
-          {attempt.items.map((item, i) => (
-            <div key={i} className="p-4 border rounded-lg bg-gray-50">
-              <h2 className="font-medium text-gray-800 mb-2">Q{i + 1}. {item.q}</h2>
-              <p className="text-sm"><span className="font-semibold text-red-600">Your answer:</span> {item.selected ?? 'No answer'}{item.selected && ` (${item.selected})`}</p>
-              <p className="text-sm"><span className="font-semibold text-green-700">Correct:</span> {item.correct}</p>
-              {item.explanation && <p className="mt-2 text-xs text-gray-600 leading-relaxed"><span className="font-semibold">Explanation:</span> {item.explanation}</p>}
-            </div>
-          ))}
+          {attempt.items.map((item, i) => {
+            const selectedText = item.selectedText || (item.selected && item.options ? item.options[item.selected.charCodeAt(0)-65] : null);
+            const correctText = item.correctText || (item.options ? item.options[item.correct.charCodeAt(0)-65] : null);
+            return (
+              <div key={i} className="p-4 border rounded-lg bg-gray-50">
+                <h2 className="font-medium text-gray-800 mb-2">Q{i + 1}. {item.q}</h2>
+                <p className="text-sm"><span className="font-semibold text-red-600">Your answer:</span> {item.selected ? `${item.selected} – ${selectedText}` : 'No answer'}</p>
+                <p className="text-sm"><span className="font-semibold text-green-700">Correct:</span> {item.correct} – {correctText}</p>
+                {item.options && (
+                  <details className="mt-2 text-xs">
+                    <summary className="cursor-pointer text-gray-600">Show all options</summary>
+                    <ul className="mt-1 space-y-0.5">
+                      {item.options.map((opt, idx) => (
+                        <li key={idx} className="text-gray-600"><span className="font-semibold">{String.fromCharCode(65+idx)}.</span> {opt}</li>
+                      ))}
+                    </ul>
+                  </details>
+                )}
+                {item.explanation && <p className="mt-2 text-xs text-gray-600 leading-relaxed"><span className="font-semibold">Explanation:</span> {item.explanation}</p>}
+              </div>
+            );
+          })}
         </div>
       </div>
     </main>
