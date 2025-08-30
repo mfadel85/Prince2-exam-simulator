@@ -21,6 +21,33 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
 
   const incorrect = review.filter(r => r.selectedAnswer !== r.question.correctAnswer);
 
+  // Local persistence key
+  const STORAGE_KEY = 'prince2_incorrect_history_v1';
+
+  const saveIncorrectForReview = () => {
+    if (incorrect.length === 0) return;
+    try {
+      const existingRaw = localStorage.getItem(STORAGE_KEY);
+      const existing = existingRaw ? JSON.parse(existingRaw) : [];
+      const attempt = {
+        date: new Date().toISOString(),
+        items: incorrect.map(i => ({
+          id: i.question.id,
+            q: i.question.question,
+            selected: i.selectedAnswer ?? null,
+            correct: i.question.correctAnswer,
+            explanation: i.question.explanation || null
+        }))
+      };
+      existing.push(attempt);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(existing));
+      setSaved(true);
+      setTimeout(() => setSaved(false), 2500);
+    } catch (e) {
+      console.error('Persist failed', e);
+    }
+  };
+
   const buildClipboardText = () => {
     const lines: string[] = [];
     lines.push(`Exam Review (${new Date().toLocaleString()})`);
@@ -54,6 +81,7 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
   };
 
   const [copied, setCopied] = React.useState(false);
+  const [saved, setSaved] = React.useState(false);
 
   const getScoreColor = () => {
     if (percentage >= 80) return 'text-green-600';
@@ -151,6 +179,22 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
               {copied ? 'Copied!' : 'Copy All'}
             </button>
           </div>
+          {incorrect.length > 0 && (
+            <div className="flex items-center gap-3 mb-4">
+              <button
+                onClick={saveIncorrectForReview}
+                className="text-xs px-3 py-1 rounded bg-indigo-600 text-white hover:bg-indigo-700 transition"
+              >
+                {saved ? 'Saved' : 'Save for Later Review'}
+              </button>
+              <a
+                href="/review" 
+                className="text-xs px-3 py-1 rounded border border-indigo-300 text-indigo-700 bg-white hover:bg-indigo-50 transition"
+              >
+                Open Review Page
+              </a>
+            </div>
+          )}
           {incorrect.length === 0 ? (
             <p className="text-sm text-green-700">Perfect score on attempted questions – no review needed.</p>
           ) : (
