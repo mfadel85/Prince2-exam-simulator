@@ -66,6 +66,44 @@ export default function ReviewPage() {
 
   const attempt = attempts[activeAttempt];
 
+  // Build pie chart data if stats present
+  const pieData = React.useMemo(() => {
+    if (!attempt.categoryStats) return [] as { label: string; value: number; color: string }[];
+    const palette = ['#2563eb','#16a34a','#dc2626','#7c3aed','#ea580c','#0891b2','#d97706','#db2777','#059669','#4f46e5'];
+    const cats = Object.entries(attempt.categoryStats).sort((a,b)=>a[0].localeCompare(b[0]));
+    const total = cats.reduce((sum, [,s]) => sum + s.total, 0) || 1;
+    return cats.map(([name, s], idx) => {
+      const ratio = s.total / total;
+      const color = palette[idx % palette.length];
+      return { label: name, value: ratio, color };
+    });
+  }, [attempt]);
+
+  const pieSvg = (() => {
+    if (pieData.length === 0) return null;
+    let cumulative = 0;
+    const radius = 60;
+    const cx = radius;
+    const cy = radius;
+    const slices = pieData.map((d, i) => {
+      const startAngle = cumulative * 2 * Math.PI;
+      cumulative += d.value;
+      const endAngle = cumulative * 2 * Math.PI;
+      const x1 = cx + radius * Math.sin(startAngle);
+      const y1 = cy - radius * Math.cos(startAngle);
+      const x2 = cx + radius * Math.sin(endAngle);
+      const y2 = cy - radius * Math.cos(endAngle);
+      const largeArc = endAngle - startAngle > Math.PI ? 1 : 0;
+      const pathData = `M ${cx} ${cy} L ${x1} ${y1} A ${radius} ${radius} 0 ${largeArc} 1 ${x2} ${y2} Z`;
+      return <path key={i} d={pathData} fill={d.color} aria-label={`${d.label}: ${(d.value*100).toFixed(1)}%`} />;
+    });
+    return (
+      <svg width={radius*2} height={radius*2} role="img" aria-label="Category distribution pie chart">
+        {slices}
+      </svg>
+    );
+  })();
+
   return (
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-6">
       <div className="max-w-5xl mx-auto bg-white p-6 sm:p-8 rounded-lg shadow">
@@ -93,7 +131,7 @@ export default function ReviewPage() {
 
         {/* Category Performance Chart */}
         <div className="mb-8">
-          <h2 className="text-lg font-semibold mb-3">Category Performance</h2>
+          <h2 className="text-lg font-semibold mb-3 flex items-center gap-3">Category Performance {attempt.categoryStats && pieSvg && (<span className="inline-block">{pieSvg}</span>)}</h2>
           {attempt.categoryStats ? (
             <div className="space-y-3">
               {Object.entries(attempt.categoryStats).sort((a,b)=>a[0].localeCompare(b[0])).map(([cat, stats]) => {
@@ -107,6 +145,17 @@ export default function ReviewPage() {
                   </div>
                 );
               })}
+              {/* Legend */}
+              {pieData.length > 0 && (
+                <div className="flex flex-wrap gap-2 pt-2">
+                  {pieData.map(d => (
+                    <span key={d.label} className="flex items-center gap-1 text-[10px] px-2 py-1 rounded border border-gray-200">
+                      <span className="w-3 h-3 rounded-sm inline-block" style={{background:d.color}}></span>
+                      {d.label}
+                    </span>
+                  ))}
+                </div>
+              )}
             </div>
           ) : (
             <p className="text-sm text-gray-500">Category stats not available for this older attempt.</p>
