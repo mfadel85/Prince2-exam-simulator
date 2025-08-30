@@ -25,23 +25,38 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
   const STORAGE_KEY = 'prince2_incorrect_history_v1';
 
   const saveIncorrectForReview = () => {
-    if (incorrect.length === 0) return;
     try {
       const existingRaw = localStorage.getItem(STORAGE_KEY);
       const existing = existingRaw ? JSON.parse(existingRaw) : [];
+      // Save FULL attempt so we can compute correct percentages later
+      const allItems = review.map(i => {
+        const q = i.question;
+        const selectedText = i.selectedAnswer ? q.options[i.selectedAnswer.charCodeAt(0)-65] : null;
+        const correctText = q.options[q.correctAnswer.charCodeAt(0)-65];
+        return {
+          id: q.id,
+          q: q.question,
+          selected: i.selectedAnswer ?? null,
+          correct: q.correctAnswer,
+          explanation: q.explanation || null,
+          options: q.options,
+          category: q.category || null,
+          selectedText,
+          correctText,
+          isCorrect: i.selectedAnswer === q.correctAnswer
+        };
+      });
+      const categoryStats: Record<string, { correct: number; incorrect: number; total: number }> = {};
+      for (const item of allItems) {
+        const cat = item.category || 'Uncategorized';
+        if (!categoryStats[cat]) categoryStats[cat] = { correct: 0, incorrect: 0, total: 0 };
+        categoryStats[cat].total++;
+        if (item.isCorrect) categoryStats[cat].correct++; else categoryStats[cat].incorrect++;
+      }
       const attempt = {
         date: new Date().toISOString(),
-        items: incorrect.map(i => ({
-          id: i.question.id,
-            q: i.question.question,
-            selected: i.selectedAnswer ?? null,
-            correct: i.question.correctAnswer,
-            explanation: i.question.explanation || null,
-            options: i.question.options,
-            // denormalized texts for resilience if bank changes later
-            selectedText: i.selectedAnswer ? i.question.options[i.selectedAnswer.charCodeAt(0)-65] : null,
-            correctText: i.question.options[i.question.correctAnswer.charCodeAt(0)-65]
-        }))
+        items: allItems,
+        categoryStats
       };
       existing.push(attempt);
       localStorage.setItem(STORAGE_KEY, JSON.stringify(existing));
@@ -189,7 +204,7 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
                 onClick={saveIncorrectForReview}
                 className="text-xs px-3 py-1 rounded bg-indigo-600 text-white hover:bg-indigo-700 transition"
               >
-                {saved ? 'Saved' : 'Save for Later Review'}
+                {saved ? 'Saved' : 'Save Attempt for Review'}
               </button>
               <a
                 href="/review" 

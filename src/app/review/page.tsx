@@ -7,13 +7,16 @@ interface StoredAttemptItem {
   selected: string | null; // letter
   correct: string; // letter
   explanation: string | null;
-  options?: string[]; // optional (added later)
+  options?: string[];
   selectedText?: string | null;
   correctText?: string | null;
+  category?: string | null;
+  isCorrect?: boolean;
 }
 interface StoredAttempt {
   date: string;
   items: StoredAttemptItem[];
+  categoryStats?: Record<string, { correct: number; incorrect: number; total: number }>;
 }
 const STORAGE_KEY = 'prince2_incorrect_history_v1';
 
@@ -88,13 +91,38 @@ export default function ReviewPage() {
           ))}
         </div>
 
+        {/* Category Performance Chart */}
+        <div className="mb-8">
+          <h2 className="text-lg font-semibold mb-3">Category Performance</h2>
+          {attempt.categoryStats ? (
+            <div className="space-y-3">
+              {Object.entries(attempt.categoryStats).sort((a,b)=>a[0].localeCompare(b[0])).map(([cat, stats]) => {
+                const pct = stats.total ? (stats.correct / stats.total) * 100 : 0;
+                return (
+                  <div key={cat} className="text-xs">
+                    <div className="flex justify-between mb-1"><span className="font-medium text-gray-700">{cat}</span><span className="text-gray-500">{stats.correct}/{stats.total} ({pct.toFixed(1)}%)</span></div>
+                    <div className="h-3 w-full rounded bg-gray-200 overflow-hidden">
+                      <div className="h-full bg-green-500" style={{width: pct + '%'}}></div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          ) : (
+            <p className="text-sm text-gray-500">Category stats not available for this older attempt.</p>
+          )}
+        </div>
+
         <div className="space-y-4 max-h-[70vh] overflow-y-auto pr-1">
           {attempt.items.map((item, i) => {
             const selectedText = item.selectedText || (item.selected && item.options ? item.options[item.selected.charCodeAt(0)-65] : null);
             const correctText = item.correctText || (item.options ? item.options[item.correct.charCodeAt(0)-65] : null);
             return (
               <div key={i} className="p-4 border rounded-lg bg-gray-50">
-                <h2 className="font-medium text-gray-800 mb-2">Q{i + 1}. {item.q}</h2>
+                <div className="flex items-start justify-between gap-4 mb-2">
+                  <h2 className="font-medium text-gray-800">Q{i + 1}. {item.q}</h2>
+                  {item.category && <span className={`px-2 py-0.5 rounded-full text-[10px] font-semibold ${item.isCorrect ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}`}>{item.category}</span>}
+                </div>
                 <p className="text-sm"><span className="font-semibold text-red-600">Your answer:</span> {item.selected ? `${item.selected} – ${selectedText}` : 'No answer'}</p>
                 <p className="text-sm font-semibold text-black">Correct: {item.correct} – {correctText}</p>
                 {item.options && (
