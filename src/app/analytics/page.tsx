@@ -40,7 +40,7 @@ export default function AnalyticsPage(){
             <button onClick={clearAll} className="px-3 py-1 rounded border border-red-300 text-red-600 hover:bg-red-50">Clear All</button>
           </div>
         </div>
-        {attempts.length===0 && <p className="text-gray-600">No saved attempts yet. Finish an exam and save results to view analytics.</p>}
+  {attempts.length===0 && <p className="text-gray-800">No saved attempts yet. Finish an exam and save results to view analytics.</p>}
         {attempts.length>0 && (
           <div className="grid md:grid-cols-2 gap-8">
             <div>
@@ -48,7 +48,7 @@ export default function AnalyticsPage(){
               <div className="space-y-3">
                 {Object.entries(combined).sort((a,b)=>a[0].localeCompare(b[0])).map(([cat,stats])=>{ const pct = stats.total? (stats.correct/stats.total)*100:0; return (
                   <div key={cat} className="text-xs">
-                    <div className="flex justify-between mb-1"><span className="font-medium text-gray-700">{cat}</span><span className="text-gray-500">{stats.correct}/{stats.total} ({pct.toFixed(1)}%)</span></div>
+                    <div className="flex justify-between mb-1"><span className="font-medium text-gray-900">{cat}</span><span className="text-gray-700">{stats.correct}/{stats.total} ({pct.toFixed(1)}%)</span></div>
                     <div className="h-3 w-full rounded bg-gray-200 overflow-hidden"><div className="h-full bg-green-500" style={{width:pct+'%'}}></div></div>
                   </div>
                 );})}
@@ -60,7 +60,7 @@ export default function AnalyticsPage(){
               <ul className="space-y-3 text-xs max-h-[60vh] overflow-y-auto pr-1">
                 {attempts.map((a,i)=>{ const total=a.items.length; const correct=a.items.filter(it=>it.isCorrect).length; const pct = total? (correct/total)*100:0; return (
                   <li key={i} className="p-3 rounded border bg-gray-50">
-                    <div className="flex justify-between mb-1"><span className="font-medium">{new Date(a.date).toLocaleString()}</span><span className="text-gray-500">{correct}/{total} ({pct.toFixed(1)}%)</span></div>
+                    <div className="flex justify-between mb-1"><span className="font-medium text-gray-900">{new Date(a.date).toLocaleString()}</span><span className="text-gray-700">{correct}/{total} ({pct.toFixed(1)}%)</span></div>
                     <div className="h-2 w-full rounded bg-gray-200 overflow-hidden mb-1"><div className="h-full bg-indigo-500" style={{width:pct+'%'}}></div></div>
                     <a className="text-blue-600 underline" href={`/review?attempt=${i}`}>Open Detailed Review</a>
                   </li>

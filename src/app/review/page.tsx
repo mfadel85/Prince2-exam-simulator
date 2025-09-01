@@ -55,7 +55,7 @@ export default function ReviewPage() {
         <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-6">
           <div className="max-w-3xl mx-auto bg-white p-8 rounded-lg shadow">
             <h1 className="text-2xl font-bold mb-4">Review Incorrect Answers</h1>
-            <p className="text-gray-600 mb-6">No saved incorrect answers yet. Finish an exam and click "Save for Later Review" on the results page.</p>
+            <p className="text-gray-800 mb-6">No saved incorrect answers yet. Finish an exam and click "Save for Later Review" on the results page.</p>
             <a href="/" className="inline-block px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700">Back to Simulator</a>
           </div>
         </main>
@@ -72,7 +72,7 @@ export default function ReviewPage() {
             </div>
 
             <div className="mb-6 flex flex-wrap gap-2 items-center">
-              <span className="text-sm font-medium text-gray-600">Attempts:</span>
+              <span className="text-sm font-medium text-gray-900">Attempts:</span>
               {attempts.map((a, idx) => (
                 <button
                   key={idx}
@@ -84,7 +84,7 @@ export default function ReviewPage() {
               ))}
             </div>
 
-            <div className="mb-4 text-xs text-gray-500 flex gap-4 items-center flex-wrap">
+            <div className="mb-4 text-xs text-gray-700 flex gap-4 items-center flex-wrap">
               {attempt?.categoryStats && <a className="underline text-blue-600" href="/analytics">View Charts & Trends</a>}
               <span className="hidden sm:inline">Detailed answers below</span>
             </div>
@@ -103,15 +103,15 @@ export default function ReviewPage() {
                     <p className="text-sm font-semibold text-black">Correct: {item.correct} – {correctText}</p>
                     {item.options && (
                       <details className="mt-2 text-xs">
-                        <summary className="cursor-pointer text-gray-600">Show all options</summary>
+                        <summary className="cursor-pointer text-gray-800">Show all options</summary>
                         <ul className="mt-1 space-y-0.5">
                           {item.options.map((opt, idx) => (
-                            <li key={idx} className="text-gray-600"><span className="font-semibold">{String.fromCharCode(65+idx)}.</span> {opt}</li>
+                            <li key={idx} className="text-gray-800"><span className="font-semibold">{String.fromCharCode(65+idx)}.</span> {opt}</li>
                           ))}
                         </ul>
                       </details>
                     )}
-                    {item.explanation && <p className="mt-2 text-xs text-gray-600 leading-relaxed"><span className="font-semibold">Explanation:</span> {item.explanation}</p>}
+                    {item.explanation && <p className="mt-2 text-xs text-gray-700 leading-relaxed"><span className="font-semibold">Explanation:</span> {item.explanation}</p>}
                   </div>
                 );
               })}
