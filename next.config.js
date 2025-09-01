@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  trailingSlash: true,
+  // Removed trailingSlash so static export creates review.html etc., allowing /review without redirect
   images: {
     unoptimized: true,
   },

@@ -48,9 +48,14 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       <div className="container mx-auto px-4 py-8">
-        <h1 className="text-4xl font-bold text-center text-gray-800 mb-8">
+        <h1 className="text-4xl font-bold text-center text-gray-800 mb-4">
           PRINCE2 Foundation Exam Simulator
         </h1>
+        <div className="flex justify-center mb-8 gap-4 text-sm flex-wrap">
+          <a href="/" className="text-blue-700 font-medium underline">Home</a>
+          <a href="/review" className="text-blue-700 font-medium underline">Review</a>
+          <a href="/analytics" className="text-blue-700 font-medium underline">Analytics</a>
+        </div>
         
         {examState === 'setup' && (
           <ExamSetup onStartExam={startExam} />

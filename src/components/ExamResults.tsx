@@ -1,4 +1,5 @@
 import React from 'react';
+import { saveAttemptRemote } from '@/lib/attemptsRemote';
 import { Question } from '@/data/questions';
 
 interface AnswerReviewItem {
@@ -24,7 +25,7 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
   // Local persistence key
   const STORAGE_KEY = 'prince2_incorrect_history_v1';
 
-  const saveIncorrectForReview = () => {
+  const saveIncorrectForReview = async () => {
     try {
       const existingRaw = localStorage.getItem(STORAGE_KEY);
       const existing = existingRaw ? JSON.parse(existingRaw) : [];
@@ -60,6 +61,10 @@ export default function ExamResults({ score, totalQuestions, onRestart, review }
       };
       existing.push(attempt);
       localStorage.setItem(STORAGE_KEY, JSON.stringify(existing));
+      // Fire off remote save (don't block UI)
+      saveAttemptRemote(attempt).then(r => {
+        if(!r.ok) console.debug('Remote save skipped/fail', r.reason);
+      });
       setSaved(true);
       setTimeout(() => setSaved(false), 2500);
     } catch (e) {

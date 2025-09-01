@@ -1,0 +1,201 @@
+Question_Number,Category,Question_Text,Option_A,Option_B,Option_C,Option_D,Correct_Answer,Explanation
+1,Introduction & Overview,What does PRINCE2 stand for?,Projects IN Controlled Environments,Project Resource Integration and Control Environment,Proactive Resource Integration in Controlled Environments,Project Initiation and Control Environment,A,PRINCE2 stands for Projects IN Controlled Environments
+2,Introduction & Overview,Which statement best describes PRINCE2?,A project management methodology,A structured project management method,A project planning tool,A risk management framework,B,PRINCE2 is described as a structured project management method
+3,Introduction & Overview,PRINCE2 is a trademark of which organization?,PMI,AXELOS,ISO,IEC,B,AXELOS owns the PRINCE2 trademark
+4,Introduction & Overview,PRINCE2 can only be used for IT projects.,True,False,N/A,N/A,B,PRINCE2 can be used for any type of project
+5,Introduction & Overview,What are the four integrated elements of PRINCE2?,Principles Themes Processes Project Environment,Principles Practices Processes Project Management,Planning Risk Issues Change,Roles Responsibilities Reporting Records,A,The four elements are Principles Themes Processes and Project Environment
+6,Introduction & Overview,Which of the following best describes the PRINCE2 approach?,Prescriptive methodology that must be followed exactly,Flexible method that can be tailored to project needs,Tool for large projects only,Framework for program management,B,PRINCE2 is flexible and can be tailored
+7,Introduction & Overview,PRINCE2 provides detailed technical guidance for specific industries.,True,False,N/A,N/A,B,PRINCE2 is industry-agnostic and does not provide technical guidance
+8,Introduction & Overview,The PRINCE2 method is based on which approach to project management?,Agile methodology,Waterfall methodology,Process-based approach,Matrix methodology,C,PRINCE2 is based on a process-based approach
+9,Introduction & Overview,Which statement about PRINCE2 is correct?,It focuses only on project planning,It provides a complete project management solution,It replaces all other project management tools,It only addresses project risks,B,PRINCE2 provides a complete project management solution
+10,Introduction & Overview,PRINCE2 can be combined with other methods and frameworks.,True,False,N/A,N/A,A,PRINCE2 can be combined with other methods like Agile
+11,PRINCE2 Principles,How many PRINCE2 principles are there?,5,6,7,8,C,There are seven PRINCE2 principles
+12,PRINCE2 Principles,Which principle ensures projects remain desirable viable and achievable?,Continued business justification,Learn from experience,Defined roles and responsibilities,Manage by stages,A,Continued business justification ensures projects remain worthwhile
+13,PRINCE2 Principles,The Business Case must be reviewed at every stage boundary.,True,False,N/A,N/A,A,Business Case review is mandatory at stage boundaries
+14,PRINCE2 Principles,Which principle emphasizes learning from previous projects?,Continued business justification,Learn from experience,Focus on products,Tailor to suit the project environment,B,Learn from experience principle focuses on lessons
+15,PRINCE2 Principles,What does Manage by exception mean in PRINCE2?,Only senior managers make decisions,Delegated authority with defined tolerances,Exceptions are not allowed,Management only intervenes when problems occur,B,Manage by exception involves delegated authority within tolerances
+16,PRINCE2 Principles,Which principle requires clear definition of accountability?,Manage by stages,Defined roles and responsibilities,Focus on products,Tailor to suit the project environment,B,Defined roles and responsibilities ensures clear accountability
+17,PRINCE2 Principles,Tolerances are only set for time and cost.,True,False,N/A,N/A,B,Tolerances can be set for scope quality benefits and risk too
+18,PRINCE2 Principles,The Focus on products principle emphasizes:,Delivering quickly,Quality over quantity,What the project will deliver and why,Customer satisfaction only,C,Focus on products emphasizes what will be delivered and why
+19,PRINCE2 Principles,Which principle allows PRINCE2 to be adapted for different project sizes?,Learn from experience,Manage by exception,Tailor to suit the project environment,Focus on products,C,Tailoring allows adaptation to different environments
+20,PRINCE2 Principles,All seven principles must be applied for a project to be considered PRINCE2.,True,False,N/A,N/A,A,All seven principles are mandatory for PRINCE2 compliance
+21,PRINCE2 Principles,Manage by stages means:,Projects must have exactly 7 stages,Planning and controlling work in discrete stages,Each stage must be the same length,Only technical stages are managed,B,Manage by stages involves discrete planning and control phases
+22,PRINCE2 Principles,Which document primarily demonstrates Continued business justification?,Project Brief,Business Case,Project Initiation Document,End Project Report,B,Business Case demonstrates ongoing justification
+23,PRINCE2 Principles,Exception reports are only raised when cost tolerances are exceeded.,True,False,N/A,N/A,B,Exception reports can be raised for any tolerance breach
+24,PRINCE2 Principles,The principle Learn from experience is applied through:,Daily meetings only,Lessons logs and reports throughout the project,End project evaluation only,External consultants,B,Lessons are captured throughout the project lifecycle
+25,PRINCE2 Principles,Which roles demonstrate Defined roles and responsibilities?,Project Board Project Manager Team Manager,Senior executives only,External stakeholders only,Customers and suppliers,A,These are the primary PRINCE2 roles with defined responsibilities
+26,PRINCE2 Principles,Product-based planning is part of the Focus on products principle.,True,False,N/A,N/A,A,Product-based planning supports the Focus on products principle
+27,PRINCE2 Principles,Tolerance levels are set by:,Project Manager only,The level of management that sets the target,Team Manager only,External stakeholders,B,The authority setting targets also sets tolerances
+28,PRINCE2 Principles,Which principle ensures appropriate project governance?,Manage by stages,Defined roles and responsibilities,Manage by exception,All of the above,D,All these principles contribute to good governance
+29,PRINCE2 Principles,The Business Case can be closed during the project if benefits are no longer achievable.,True,False,N/A,N/A,A,Projects should close if business justification fails
+30,PRINCE2 Principles,Tailor to suit the project environment considers:,Project size and complexity only,Organizational environment only,Project size complexity importance and environment,Budget constraints only,C,Tailoring considers multiple environmental factors
+31,PRINCE2 Principles,Which principle prevents projects from drifting away from objectives?,Focus on products,Manage by stages,Learn from experience,Continued business justification,D,Continued business justification maintains focus on objectives
+32,PRINCE2 Principles,Exception reports must always be escalated to the Project Board.,True,False,N/A,N/A,B,Exception reports go to the authority that set the tolerance
+33,PRINCE2 Principles,The minimum number of management stages in a PRINCE2 project is:,1,2,3,7,B,Minimum is initiation stage plus one delivery stage
+34,PRINCE2 Principles,Which principle helps avoid costly mistakes by learning from others?,Manage by exception,Learn from experience,Focus on products,Defined roles and responsibilities,B,Learn from experience helps avoid repeating mistakes
+35,PRINCE2 Principles,Product Descriptions are created as part of Focus on products.,True,False,N/A,N/A,A,Product Descriptions define what products will deliver
+36,PRINCE2 Principles,Stage tolerances are normally set by:,Team Manager,Project Manager,Project Board,Senior User,C,Project Board sets stage tolerances for Project Manager
+37,PRINCE2 Principles,Which principle ensures clear communication lines?,Learn from experience,Defined roles and responsibilities,Focus on products,Manage by stages,B,Clear roles ensure clear communication
+38,PRINCE2 Principles,The principles provide the foundation for all other PRINCE2 elements.,True,False,N/A,N/A,A,Principles underpin all other PRINCE2 elements
+39,PRINCE2 Principles,Regular review of the Business Case demonstrates which principle?,Manage by exception,Continued business justification,Learn from experience,Manage by stages,B,Regular Business Case review maintains justification
+40,PRINCE2 Principles,Which principle addresses the question What will the project deliver?,Continued business justification,Focus on products,Manage by stages,Tailor to suit the project environment,B,Focus on products defines what will be delivered
+41,PRINCE2 Principles,Lessons can only be captured at the end of a project.,True,False,N/A,N/A,B,Lessons should be captured throughout the project
+42,PRINCE2 Principles,The Project Board demonstrates which principle?,Manage by exception,Defined roles and responsibilities,Focus on products,Both A and B,D,Project Board demonstrates both exception management and defined roles
+43,PRINCE2 Principles,Which principle ensures work is planned and controlled in manageable chunks?,Focus on products,Manage by stages,Learn from experience,Manage by exception,B,Manage by stages creates manageable control points
+44,PRINCE2 Principles,All seven principles are of equal importance.,True,False,N/A,N/A,A,All principles must be applied and are equally important
+45,PRINCE2 Principles,Escalation in Manage by exception occurs when:,Any problem arises,Tolerance levels are forecast to be exceeded,The Project Manager is unavailable,Weekly reports are due,B,Escalation occurs when tolerances are forecast to be exceeded
+46,Business Case Theme,What is the primary purpose of the Business Case theme?,To plan project activities,To establish and maintain justification for investment,To manage project risks,To control project changes,B,Business Case theme maintains investment justification
+47,Business Case Theme,The Business Case is created in Starting up a Project process.,True,False,N/A,N/A,A,Outline Business Case created during startup
+48,Business Case Theme,Who is accountable for the Business Case?,Project Manager,Executive,Senior User,Project Support,B,Executive is accountable for business justification
+49,Business Case Theme,Which document formally presents the business justification?,Project Brief,Business Case,Project Product Description,Benefits Review Plan,B,Business Case document presents the justification
+50,Business Case Theme,Benefits realization can occur after project closure.,True,False,N/A,N/A,A,Benefits often realized in operational life
+51,Business Case Theme,The Business Case development option that involves doing nothing is called:,Status quo,Do nothing,Baseline option,Current state,B,Do nothing option represents not doing the project
+52,Business Case Theme,Which role ensures benefits are realized?,Project Manager,Executive,Senior User,Team Manager,C,Senior User ensures benefits realization
+53,Business Case Theme,The Business Case should include investment appraisal.,True,False,N/A,N/A,A,Investment appraisal is part of Business Case
+54,Business Case Theme,Benefits Review Plan is used to:,Plan project stages,Measure and confirm benefit achievement,Control project costs,Manage project risks,B,Benefits Review Plan tracks benefit realization
+55,Business Case Theme,The Business Case is only reviewed at project initiation.,True,False,N/A,N/A,B,Business Case reviewed throughout project lifecycle
+56,Organization Theme,How many primary stakeholder interests does PRINCE2 recognize?,2,3,4,5,B,Three interests: Business User Supplier
+57,Organization Theme,Which role represents the business interest?,Senior User,Executive,Senior Supplier,Project Manager,B,Executive represents business ownership
+58,Organization Theme,The Project Board has executive authority over the project.,True,False,N/A,N/A,A,Project Board has overall accountability and authority
+59,Organization Theme,Who is accountable for overall project success?,Project Manager,Executive,Project Board,Team Manager,C,Project Board collectively accountable for success
+60,Organization Theme,The Senior User represents:,Supplier interests,Business interests,User interests,Technical interests,C,Senior User represents those who will use products
+61,Organization Theme,One person can fulfill multiple Project Board roles.,True,False,N/A,N/A,A,Role combination allowed especially in smaller projects
+62,Organization Theme,Which role provides resources and skills for project products?,Executive,Senior User,Senior Supplier,Project Manager,C,Senior Supplier provides specialist resources
+63,Organization Theme,Project Assurance ensures:,Project products meet requirements,Project delivers value for money,Project risks are managed,All of the above,D,Project Assurance monitors all aspects of project performance
+64,Organization Theme,Team Managers are mandatory in all PRINCE2 projects.,True,False,N/A,N/A,B,Team Managers optional depending on project size
+65,Organization Theme,The Project Manager is accountable to:,Project Support,Team Manager,Project Board,Change Authority,C,Project Manager reports to and is accountable to Project Board
+66,Quality Theme,What is the purpose of the Quality theme?,To define project quality standards,To ensure products are fit for purpose,To check product quality,All of the above,D,Quality theme covers all aspects of quality management
+67,Quality Theme,Quality planning is done only at project initiation.,True,False,N/A,N/A,B,Quality planning continues throughout project
+68,Quality Theme,Which document defines quality methods and responsibilities?,Quality Management Strategy,Product Description,Quality Register,Configuration Management Strategy,A,Quality Management Strategy defines approach
+69,Quality Theme,What are quality criteria?,Measurable definitions of quality attributes,Quality control activities,Quality assurance procedures,Quality improvement plans,A,Quality criteria are measurable quality specifications
+70,Quality Theme,Quality control involves checking completed products.,True,False,N/A,N/A,A,Quality control checks products against criteria
+71,Quality Theme,Quality assurance provides:,Product checking,Independent monitoring of quality management,Quality planning,Quality testing,B,Quality assurance independently monitors quality management
+72,Quality Theme,Which activity involves checking products against quality criteria?,Quality planning,Quality control,Quality assurance,Quality review,B,Quality control checks products against their criteria
+73,Quality Theme,Customer quality expectations are captured in the Project Product Description.,True,False,N/A,N/A,A,Customer quality expectations documented in Project Product Description
+74,Quality Theme,Quality Register records:,Quality methods only,Planned and completed quality activities,Quality criteria only,Quality roles only,B,Quality Register tracks all quality activities
+75,Quality Theme,Quality tolerance is about acceptable variation in quality criteria.,True,False,N/A,N/A,A,Quality tolerance defines acceptable quality variation
+76,Plans Theme,PRINCE2 uses which planning approach?,Activity-based planning,Product-based planning,Time-based planning,Resource-based planning,B,PRINCE2 uses product-based planning approach
+77,Plans Theme,Product breakdown structure shows product hierarchy.,True,False,N/A,N/A,A,PBS shows hierarchical breakdown of products
+78,Plans Theme,How many levels of plan does PRINCE2 define?,2,3,4,5,B,Three levels: Project Stage and Team Plans
+79,Plans Theme,Which is NOT a planning level in PRINCE2?,Project Plan,Stage Plan,Work Package Plan,Team Plan,C,Work Package is not a plan level
+80,Plans Theme,Product flow diagram shows product dependencies.,True,False,N/A,N/A,A,Product flow diagram shows sequence and dependencies
+81,Plans Theme,The three steps of product-based planning are:,Plan Do Check,Write Product Descriptions Create Product Breakdown Structure Create Product Flow Diagram,Create Product Breakdown Structure Write Product Descriptions Create Product Flow Diagram,Identify products Plan activities Schedule work,C,Correct sequence: PBS then descriptions then flow diagram
+82,Plans Theme,Which document describes a products quality criteria?,Product Breakdown Structure,Product Description,Product Flow Diagram,Work Package,B,Product Description contains quality criteria
+83,Plans Theme,External products are created by the project team.,True,False,N/A,N/A,B,External products come from outside the project
+84,Plans Theme,Planning horizon shows:,Project timeline,Level of detail in planning,Resource requirements,Cost estimates,B,Planning horizon indicates planning detail level
+85,Plans Theme,Stage Plans are created in Managing a Stage Boundary process.,True,False,N/A,N/A,A,Stage Plans created when managing stage boundaries
+86,Risk Theme,What is the PRINCE2 definition of risk?,Uncertain event that could affect project success,Something that will definitely go wrong,Uncertain event that could have positive or negative impact,Problems that occur during projects,C,PRINCE2 defines risk as uncertain event with potential impact
+87,Risk Theme,Opportunities are positive risks.,True,False,N/A,N/A,A,Opportunities are risks with positive impact
+88,Risk Theme,Which document defines the projects approach to risk management?,Risk Register,Risk Management Strategy,Issue Register,Project Brief,B,Risk Management Strategy defines the approach
+89,Risk Theme,What are the risk management steps in PRINCE2?,Plan Assess Implement Review,Identify Assess Plan Implement Communicate,Find Analyze Plan Track,Identify Plan Implement Close,B,Five steps: Identify Assess Plan Implement Communicate
+90,Risk Theme,Risk owner is responsible for monitoring assigned risks.,True,False,N/A,N/A,A,Risk owner monitors and manages assigned risks
+91,Risk Theme,Which risk response involves accepting the risk?,Avoid,Reduce,Transfer,Accept,D,Accept means taking no specific action
+92,Risk Theme,Risk appetite describes:,Number of risks allowed,Amount of risk an organization is willing to take,Risk severity levels,Risk management costs,B,Risk appetite is willingness to take risk
+93,Risk Theme,Risks should only be identified at project start.,True,False,N/A,N/A,B,Risk identification continues throughout project
+94,Risk Theme,Which shows risks graphically by probability and impact?,Risk Register,Risk breakdown structure,Probability impact grid,Risk assessment matrix,C,Probability impact grid plots risks visually
+95,Risk Theme,Secondary risks can arise from risk responses.,True,False,N/A,N/A,A,Risk responses can create new secondary risks
+96,Change Theme,What is the purpose of the Change theme?,To prevent all changes,To identify assess and control changes to baseline,To approve all changes automatically,To document change history only,B,Change theme controls changes to baselined products
+97,Change Theme,Issues include both problems and change requests.,True,False,N/A,N/A,A,Issues encompass problems and change requests
+98,Change Theme,Which document records project issues?,Change Register,Issue Register,Quality Register,Risk Register,B,Issue Register records all project issues
+99,Change Theme,What is configuration management?,Managing project configurations,Technical setup management,Identification control and status accounting of products,Computer system management,C,Configuration management tracks product status and versions
+100,Change Theme,Change Authority can approve changes within delegated limits.,True,False,N/A,N/A,A,Change Authority has delegated approval powers
+101,Change Theme,Which type of issue requires immediate attention?,Request for change,Problem,Off-specification,All require equal attention,B,Problems need immediate attention to avoid impact
+102,Change Theme,Configuration Item Records contain:,Product information and history,Only current product status,Change requests only,Quality information only,A,CIRs contain complete product information and history
+103,Change Theme,All changes must be approved by the Project Board.,True,False,N/A,N/A,B,Change Authority can approve within delegated limits
+104,Change Theme,Off-specification means:,Product specification is missing,Product doesnt meet specification,Specification is incorrect,Product exceeds specification,B,Off-specification means product fails to meet specification
+105,Change Theme,Impact analysis assesses effects of potential changes.,True,False,N/A,N/A,A,Impact analysis evaluates change consequences
+106,Progress Theme,The Progress theme is about:,Monitoring project speed only,Establishing mechanisms to monitor and control progress,Reporting to senior management,Tracking project schedules,B,Progress theme establishes control mechanisms
+107,Progress Theme,Tolerances define acceptable deviation from targets.,True,False,N/A,N/A,A,Tolerances set acceptable variance limits
+108,Progress Theme,Which controls are used within a management stage?,End Stage Reports,Checkpoint Reports,Lessons Reports,Exception Reports,B,Checkpoint Reports provide intra-stage control
+109,Progress Theme,What triggers an Exception Report?,Weekly reporting cycle,Tolerance breach forecast,Stage completion,Project Board request,B,Exception Reports triggered by forecast tolerance breach
+110,Progress Theme,Work Packages define work to be done by Team Manager.,True,False,N/A,N/A,A,Work Packages authorize and define team work
+111,Progress Theme,Highlight Reports are produced:,Daily,Weekly,At agreed intervals,Monthly only,C,Highlight Reports produced at frequency agreed with Project Board
+112,Progress Theme,Which report summarizes stage performance?,Highlight Report,Checkpoint Report,End Stage Report,Exception Report,C,End Stage Report summarizes completed stage performance
+113,Progress Theme,Project controls should be proportional to project scale.,True,False,N/A,N/A,A,Controls should match project size and risk
+114,Progress Theme,Event-driven controls are triggered by:,Time intervals,Specific events or circumstances,Management requests,Resource availability,B,Event-driven controls respond to specific triggers
+115,Progress Theme,All projects must use the same control procedures.,True,False,N/A,N/A,B,Controls should be tailored to project needs
+116,Starting up a Project,What is the trigger for Starting up a Project?,Business Case approval,Project mandate,Project Board appointment,Budget approval,B,Project mandate triggers the startup process
+117,Starting up a Project,Starting up a Project is a pre-project process.,True,False,N/A,N/A,A,SU is pre-project process before formal authorization
+118,Starting up a Project,Which role appoints the Executive?,Project Manager,Corporate management,Senior User,Project Support,B,Corporate or program management appoints Executive
+119,Starting up a Project,The Project Brief is created in which activity?,Appoint the Executive and Project Manager,Capture previous lessons,Design and appoint the project management team,Prepare the outline Business Case,D,Project Brief created when preparing outline Business Case
+120,Starting up a Project,Daily Log is created in Starting up a Project.,True,False,N/A,N/A,A,Daily Log created during startup for informal issues
+121,Starting up a Project,Which document authorizes initiation?,Project Brief,Project Initiation Document,Business Case,Project mandate,A,Project Brief authorizes initiation stage
+122,Starting up a Project,The Project Manager is appointed by:,Corporate management,Executive,Senior User,Project Board,B,Executive appoints Project Manager
+123,Starting up a Project,Risk Register is created during project startup.,True,False,N/A,N/A,A,Risk Register created in startup process
+124,Starting up a Project,Previous lessons are captured to:,Avoid past mistakes,Apply proven approaches,Influence project approach,All of the above,D,Lessons inform project approach and decisions
+125,Starting up a Project,Project approach is defined in Starting up a Project.,True,False,N/A,N/A,A,Project approach defined during startup
+126,Directing a Project,Directing a Project runs from:,Project start to end,Initiation to closure,Pre-project to post-project,Planning to delivery,C,DP runs from pre-project through post-project
+127,Directing a Project,The Project Board directs the project.,True,False,N/A,N/A,A,Project Board provides direction throughout
+128,Directing a Project,Which decision point authorizes the project?,End of Starting up a Project,End of Initiating a Project,Start of first delivery stage,Project mandate approval,B,Project authorized at end of initiation stage
+129,Directing a Project,Ad hoc direction involves:,Scheduled Project Board meetings,Giving advice and guidance when requested,Exception handling only,Stage boundary reviews,B,Ad hoc direction provides guidance as needed
+130,Directing a Project,Project Board can delegate change authority.,True,False,N/A,N/A,A,Project Board can delegate change decisions
+131,Directing a Project,Project closure authorization is given in which activity?,Authorize project closure,Give ad hoc direction,Authorize the project,Authorize a Stage Plan,A,Specific activity for authorizing closure
+132,Directing a Project,Which triggers Project Board involvement?,Daily activities,Exception Reports and stage boundaries,Team meetings,Weekly reports,B,Project Board triggered by exceptions and stage gates
+133,Directing a Project,Project Board reviews End Stage Reports.,True,False,N/A,N/A,A,Project Board reviews stage performance
+134,Directing a Project,Premature project closure can be authorized:,Only by Executive,Only at stage boundaries,At any time by Project Board,Only by corporate management,C,Project Board can close project when justified
+135,Directing a Project,Project Board should meet regularly throughout the project.,True,False,N/A,N/A,B,Project Board meets by exception not regularly
+136,Initiating a Project,The purpose of Initiating a Project is to:,Start project work,Establish solid foundations for the project,Create the first products,Appoint the team,B,IP establishes project foundations and baselines
+137,Initiating a Project,Project Initiation Document is the baseline for project control.,True,False,N/A,N/A,A,PID establishes control baselines
+138,Initiating a Project,Which strategy documents are created during initiation?,Only Quality Management Strategy,Quality Risk Communication and Configuration Management Strategies,Only Risk Management Strategy,Business Case and Project Plan,B,Four management strategies created
+139,Initiating a Project,The detailed Business Case is created in which activity?,Prepare the risk management strategy,Prepare the quality management strategy,Refine the Business Case and Benefits Review Plan,Set up project controls,C,Business Case refined during this activity
+140,Initiating a Project,Project Plan covers the entire project lifecycle.,True,False,N/A,N/A,A,Project Plan spans full project from start to closure
+141,Initiating a Project,Communication Management Strategy defines:,Meeting schedules only,Information needs and communication methods,Reporting templates only,Stakeholder list only,B,CMS defines comprehensive communication approach
+142,Initiating a Project,Which contains the agreed project definition?,Project Brief,Project Initiation Document,Business Case,Project Plan,B,PID contains complete agreed project definition
+143,Initiating a Project,Next Stage Plan is created during initiation.,True,False,N/A,N/A,A,First Stage Plan created during initiation
+144,Initiating a Project,Project controls are established based on:,Project size and risk,Organizational standards,Stakeholder requirements,All of the above,D,Controls consider multiple factors
+145,Initiating a Project,Initiation stage is the first management stage.,True,False,N/A,N/A,B,Initiation is separate from management stages
+146,Controlling a Stage,Controlling a Stage is executed by:,Project Board,Project Manager,Team Manager,Project Support,B,Project Manager controls the stage
+147,Controlling a Stage,Work Packages are authorized in this process.,True,False,N/A,N/A,A,PM authorizes Work Packages in CS process
+148,Controlling a Stage,Which report provides regular progress updates?,Exception Report,Highlight Report,End Stage Report,Checkpoint Report,B,Highlight Reports provide regular updates to Project Board
+149,Controlling a Stage,When should issues be captured?,At stage end only,As soon as theyre identified,During weekly reviews,At Project Board meetings,B,Issues captured immediately when identified
+150,Controlling a Stage,Project Manager escalates exceptions to Project Board.,True,False,N/A,N/A,A,PM escalates stage tolerance breaches to Project Board
+151,Controlling a Stage,Work Package tolerance is set by:,Team Manager,Project Manager,Project Board,Executive,B,Project Manager sets Work Package tolerances
+152,Controlling a Stage,Which activity involves reviewing Work Package status?,Authorize a Work Package,Review Work Package status,Receive completed Work Package,Capture and examine issues and risks,B,Specific activity for reviewing WP progress
+153,Controlling a Stage,Controlling a Stage continues until stage completion.,True,False,N/A,N/A,A,CS process runs throughout management stage
+154,Controlling a Stage,Team Manager reports progress through:,Highlight Reports,Checkpoint Reports,End Stage Reports,Exception Reports,B,Team Manager uses Checkpoint Reports
+155,Controlling a Stage,Lessons are captured throughout stage execution.,True,False,N/A,N/A,A,Lessons captured continuously during execution
+156,Managing Product Delivery,Managing Product Delivery is performed by:,Project Manager,Team Manager,Project Board,Project Support,B,Team Manager performs this process
+157,Managing Product Delivery,This process covers work done to create project products.,True,False,N/A,N/A,A,MPD covers actual product creation work
+158,Managing Product Delivery,Work Package acceptance involves checking:,Resource requirements only,All aspects including constraints and reporting arrangements,Timeline only,Budget only,B,Full Work Package review before acceptance
+159,Managing Product Delivery,Which document formally hands over completed products?,Work Package,Product Description,Quality Register,Checkpoint Report,A,Completed Work Package handed back to Project Manager
+160,Managing Product Delivery,Team Manager must accept Work Package before starting work.,True,False,N/A,N/A,A,Formal acceptance required before work starts
+161,Managing Product Delivery,Product delivery cycle includes:,Accept Execute Deliver,Plan Execute Review,Accept Plan Execute Deliver,Start Execute Complete,A,Three-step cycle for product delivery
+162,Managing Product Delivery,Quality checking is performed by:,Team Manager only,Project Manager only,Independent quality reviewers,Anyone designated in quality method,D,Quality checking done by designated reviewers
+163,Managing Product Delivery,Checkpoint Reports are mandatory in this process.,True,False,N/A,N/A,B,Checkpoint Reports frequency agreed in Work Package
+164,Managing Product Delivery,Team Manager raises exceptions when:,Work is completed,Work Package tolerance forecast to be exceeded,Quality issues arise,Resources are needed,B,Exceptions raised for tolerance breaches
+165,Managing Product Delivery,Completed Work Package must meet acceptance criteria.,True,False,N/A,N/A,A,Work Package must meet defined criteria
+166,Managing a Stage Boundary,Managing a Stage Boundary is triggered by:,Project Board request,Approaching end of management stage,Exception Report,Change request,B,Triggered near end of management stage
+167,Managing a Stage Boundary,This process updates the Project Plan.,True,False,N/A,N/A,A,Project Plan updated with actual performance
+168,Managing a Stage Boundary,End Stage Report provides:,Future stage plans,Performance assessment of completed stage,Risk analysis only,Resource requirements,B,ESR assesses completed stage performance
+169,Managing a Stage Boundary,Which plan is created for the next stage?,Project Plan,Team Plan,Stage Plan,Work Package Plan,C,Next Stage Plan created for following stage
+170,Managing a Stage Boundary,Business Case is reviewed at stage boundaries.,True,False,N/A,N/A,A,Business Case reviewed and updated at boundaries
+171,Managing a Stage Boundary,Exception Plans are created when:,Stages complete normally,Stage tolerances are exceeded,New stages begin,Projects start,B,Exception Plans replace Stage Plans after tolerance breach
+172,Managing a Stage Boundary,Stage boundary reviews assess:,Stage performance only,Project viability and next stage authorization,Team performance only,Resource allocation only,B,Reviews assess overall project viability
+173,Managing a Stage Boundary,Lessons are reviewed and updated at stage boundaries.,True,False,N/A,N/A,A,Lessons reviewed and applied at boundaries
+174,Managing a Stage Boundary,Project Plan updates reflect:,Completed stage actuals,Future stage estimates,Risk and issue impacts,All of the above,D,Project Plan updates include all performance data
+175,Managing a Stage Boundary,Managing a Stage Boundary can result in project premature closure.,True,False,N/A,N/A,A,Process can recommend premature closure
+176,Closing a Project,Closing a Project is triggered by:,Project Board authorization,Project Manager decision,Budget depletion,Timeline completion,A,Project Board authorizes closure
+177,Closing a Project,Project closure can be premature or planned.,True,False,N/A,N/A,A,Projects can close prematurely or as planned
+178,Closing a Project,End Project Report evaluates:,Project performance against baseline,Team performance only,Financial performance only,Technical delivery only,A,EPR evaluates overall project performance
+179,Closing a Project,Which activity transfers ongoing operational responsibilities?,Prepare planned closure,Hand over products,Evaluate the project,Recommend project closure,B,Hand over products transfers operational responsibility
+180,Closing a Project,Benefits Review Plan may be updated during closure.,True,False,N/A,N/A,A,BRP may need updates based on project outcomes
+181,Closing a Project,Lessons Report contains:,Project lessons only,Recommendations for future projects,Team feedback only,Process improvements only,B,Lessons Report provides recommendations for future
+182,Closing a Project,Project closure notification involves:,Internal stakeholders only,All interested parties,Project team only,Executive only,B,All stakeholders notified of closure
+183,Closing a Project,All project products must be accepted before closure.,True,False,N/A,N/A,A,Product acceptance required for successful closure
+184,Closing a Project,Follow-on action recommendations cover:,Technical issues only,Unfinished work and operational concerns,Team arrangements only,Budget reconciliation only,B,Follow-on actions address remaining work and concerns
+185,Closing a Project,Project files are archived during closure.,True,False,N/A,N/A,A,Project documentation archived for future reference
+186,Project Environment & Tailoring,Tailoring PRINCE2 considers:,Project scale and complexity,Organizational environment,Project type and familiarity,All of the above,D,Tailoring considers all environmental factors
+187,Project Environment & Tailoring,PRINCE2 must be applied exactly as written.,True,False,N/A,N/A,B,PRINCE2 should be tailored to project environment
+188,Project Environment & Tailoring,In a simple project you might:,Skip all documentation,Combine documents and simplify procedures,Use only one management stage,Remove all controls,B,Simple projects can use combined and simplified approaches
+189,Project Environment & Tailoring,Embedding PRINCE2 means:,Training all staff,Integrating PRINCE2 with organizational processes,Using PRINCE2 for all projects,Replacing existing methods,B,Embedding integrates PRINCE2 with existing processes
+190,Project Environment & Tailoring,Agile can be combined with PRINCE2.,True,False,N/A,N/A,A,PRINCE2 can be combined with Agile delivery approaches
+191,Project Environment & Tailoring,For a project in a program you might:,Ignore program governance,Align project governance with program,Create separate governance,Report only to program,B,Project governance should align with program
+192,Project Environment & Tailoring,Commercial customer/supplier environment affects:,Contract management,Acceptance procedures,Risk and change management,All of the above,D,Commercial environment affects multiple aspects
+193,Project Environment & Tailoring,Multi-organization projects require clear role definitions.,True,False,N/A,N/A,A,Clear roles essential in multi-organization projects
+194,Project Environment & Tailoring,Tailoring should be:,Done once at project start,Documented in Project Initiation Document,Reviewed as project progresses,All of the above,D,Tailoring is planned documented and reviewed
+195,Project Environment & Tailoring,Small projects can use informal communication methods.,True,False,N/A,N/A,A,Small projects may use less formal communication
+196,Project Environment & Tailoring,For complex projects you typically need:,More detailed planning,Enhanced controls,More formal communication,All of the above,D,Complex projects need more sophisticated approaches
+197,Project Environment & Tailoring,Project operating model defines:,Project organization only,How project will operate within its environment,Technical delivery approach only,Communication methods only,B,Operating model defines how project fits environment
+198,Project Environment & Tailoring,PRINCE2 roles can be combined for smaller projects.,True,False,N/A,N/A,A,Role combination common in smaller projects
+199,Project Environment & Tailoring,When tailoring you should consider:,Organizational maturity,Project constraints,Stakeholder expectations,All of the above,D,Tailoring considers multiple factors
+200,Project Environment & Tailoring,Tailoring documentation should explain deviations from standard PRINCE2.,True,False,N/A,N/A,A,Tailoring decisions should be documented and justified

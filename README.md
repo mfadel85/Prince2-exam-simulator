@@ -137,7 +137,28 @@ src/
 ## Configuration
 
 ### Environment Variables
-No environment variables required - fully client-side application.
+Supabase remote persistence (free tier) uses these (create a `.env.local`):
+Create `.env.local` (not committed) with:
+```
+NEXT_PUBLIC_SUPABASE_URL=YOUR_SUPABASE_PROJECT_URL
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_PUBLIC_KEY
+```
+Restart dev/build after adding.
+Table schema (SQL):
+```sql
+create table public.attempts (
+   id uuid primary key default gen_random_uuid(),
+   user_id uuid not null,
+   date timestamptz not null,
+   items jsonb not null,
+   category_stats jsonb not null,
+   created_at timestamptz default now()
+);
+alter table public.attempts enable row level security;
+create policy "attempts_insert" on public.attempts for insert with check (auth.uid() = user_id);
+create policy "attempts_select" on public.attempts for select using (auth.uid() = user_id);
+```
+Anonymous auth is used automatically; attempts are stored remotely after local save.
 
 ### Customization Options
 

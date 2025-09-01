@@ -1,4 +1,5 @@
 import { generatedQuestions } from './generatedQuestions';
+import { csvQuestions } from './csvQuestions';
 
 export interface Question {
   id: string;
@@ -341,7 +342,7 @@ const baseQuestions: Question[] = [
 ];
 
 // Final combined question bank (base + generated from PDFs)
-export const questionBank: Question[] = [...baseQuestions, ...generatedQuestions];
+export const questionBank: Question[] = [...baseQuestions, ...generatedQuestions, ...csvQuestions];
 
 /** Utility: total number of questions currently available */
 export const questionCount = questionBank.length;
